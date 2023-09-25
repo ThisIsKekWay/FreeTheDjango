@@ -1,24 +1,4 @@
-INFO 2023-09-25 17:17:57,909 autoreload 5868 2000 Watching for file changes with StatReloader
-INFO 2023-09-25 17:18:03,012 basehttp 5868 13288 "GET / HTTP/1.1" 200 49
-INFO 2023-09-25 17:19:42,821 autoreload 5868 2000 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\djangosems\urls.py changed, reloading.
-INFO 2023-09-25 17:19:43,408 autoreload 1924 7540 Watching for file changes with StatReloader
-INFO 2023-09-25 17:21:53,098 autoreload 1924 7540 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\djangosems\urls.py changed, reloading.
-INFO 2023-09-25 17:21:53,652 autoreload 7340 8912 Watching for file changes with StatReloader
-WARNING 2023-09-25 17:21:57,361 log 7340 1548 Not Found: /
-WARNING 2023-09-25 17:21:57,362 basehttp 7340 1548 "GET / HTTP/1.1" 404 2167
-INFO 2023-09-25 17:22:02,329 basehttp 7340 1548 "GET /sem1 HTTP/1.1" 200 49
-INFO 2023-09-25 17:24:02,337 autoreload 7340 8912 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
-INFO 2023-09-25 17:24:02,915 autoreload 6740 10220 Watching for file changes with StatReloader
-INFO 2023-09-25 17:24:08,083 basehttp 6740 2232 "GET /sem1 HTTP/1.1" 200 144
-INFO 2023-09-25 17:24:22,911 autoreload 6740 10220 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\djangosems\urls.py changed, reloading.
-INFO 2023-09-25 17:24:23,482 autoreload 11312 14924 Watching for file changes with StatReloader
-WARNING 2023-09-25 17:24:23,638 log 11312 15196 Not Found: /sem1
-WARNING 2023-09-25 17:24:23,639 basehttp 11312 15196 "GET /sem1 HTTP/1.1" 404 2254
-INFO 2023-09-25 17:24:27,767 basehttp 11312 15196 "GET / HTTP/1.1" 200 144
-INFO 2023-09-25 17:26:22,248 autoreload 11312 14924 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
-INFO 2023-09-25 17:26:22,793 autoreload 8892 13704 Watching for file changes with StatReloader
-INFO 2023-09-25 17:26:26,708 basehttp 8892 14692 "GET / HTTP/1.1" 200 144
-WARNING 2023-09-25 17:26:32,617 log 8892 14692 Not Found: /about/
-WARNING 2023-09-25 17:26:32,617 basehttp 8892 14692 "GET /about/ HTTP/1.1" 404 2260
-INFO 2023-09-25 17:27:31,304 autoreload 8892 13704 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\urls.py changed, reloading.
-INFO 2023-09-25 17:27:31,843 autoreload 9500 1284 Watching for file changes with StatReloader
+INFO 2023-09-25 17:33:50,956 views 12428 15212 Юзверь зашел на главную страницу
+INFO 2023-09-25 17:33:50,956 basehttp 12428 15212 "GET / HTTP/1.1" 200 144
+INFO 2023-09-25 17:33:58,585 views 12428 15212 Юзверь испытывает любопытство
+INFO 2023-09-25 17:33:58,586 basehttp 12428 15212 "GET /about/ HTTP/1.1" 200 267
