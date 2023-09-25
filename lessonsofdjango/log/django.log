@@ -1,0 +1,26 @@
+Watching for file changes with StatReloader
+C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lection1app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lection1app\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lection1app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+"GET /prefix/ HTTP/1.1" 200 40
+Ошибка на странице about: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lection1app\views.py", line 15, in about
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+"GET /prefix/about/ HTTP/1.1" 200 31
+C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lessonsofdjango\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+"GET /prefix/ HTTP/1.1" 200 40
+C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lessonsofdjango\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lessonsofdjango\settings.py changed, reloading.
+INFO 2023-09-25 16:41:30,818 autoreload 1180 13572 Watching for file changes with StatReloader
+INFO 2023-09-25 16:41:53,811 views 1180 15156 Index page accessed
+INFO 2023-09-25 16:41:53,812 basehttp 1180 15156 "GET /prefix/ HTTP/1.1" 200 40
