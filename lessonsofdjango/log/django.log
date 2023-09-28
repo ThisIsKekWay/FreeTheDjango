@@ -24,3 +24,7 @@ C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lessonsofdjang
 INFO 2023-09-25 16:41:30,818 autoreload 1180 13572 Watching for file changes with StatReloader
 INFO 2023-09-25 16:41:53,811 views 1180 15156 Index page accessed
 INFO 2023-09-25 16:41:53,812 basehttp 1180 15156 "GET /prefix/ HTTP/1.1" 200 40
+INFO 2023-09-28 09:44:38,445 autoreload 9808 8896 Watching for file changes with StatReloader
+INFO 2023-09-28 09:45:57,382 autoreload 3228 2340 Watching for file changes with StatReloader
+INFO 2023-09-28 09:47:47,661 autoreload 14992 6760 Watching for file changes with StatReloader
+INFO 2023-09-28 09:50:33,620 autoreload 7892 8440 Watching for file changes with StatReloader
