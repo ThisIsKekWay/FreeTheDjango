@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Посты автора {{ author.name }}
+{% endblock %}
+
+{% block content %}
+    <h2>Последние 5 постов автора {{ author.name }}</h2>
+    <table>
+        {% for post in posts %}
+            <tr>
+                <td><a href="{% url 'post_full' post.id %}">{{ post.title }}</a> </td>
+                <td>{{ post.get_summary }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}
