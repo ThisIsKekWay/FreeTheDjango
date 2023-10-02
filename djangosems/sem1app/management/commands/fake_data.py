@@ -1,3 +1,5 @@
+import random
+from datetime import datetime, timedelta
 from random import choice
 
 from django.core.management.base import BaseCommand
@@ -35,10 +37,14 @@ class Command(BaseCommand):
             product.save()
 
         for k in range(1, orders_count + 1):
+            start_date = datetime(2023, 1, 1)
+            end_date = datetime(2023, 10, 2)
+            random_days = random.randint(0, (end_date - start_date).days)
+            random_date = start_date + timedelta(days=random_days)
             order = Order(
                 client=Client.objects.get(pk=choice(Client.objects.all()).id),
                 product=Product.objects.get(pk=choice(Product.objects.all()).id),
                 total_price=k,
-                order_date=k,
+                order_date=random_date,
             )
             order.save()

@@ -12,7 +12,7 @@
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
-    <connection id="e5e16ef3-0537-44c5-b551-ea254125c328">
+    <connection id="a03ecf4b-dddb-40da-af48-bad046331cee">
       <console name="Connection" type="STANDARD" schema="" session="Main" />
     </connection>
   </component>
@@ -23,8 +23,11 @@
     <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="e5e16ef3-0537-44c5-b551-ea254125c328" dataset="main.lection3app_post" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="e5e16ef3-0537-44c5-b551-ea254125c328" dataset="main.lection3app_author" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.auth_user" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.django_migrations" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.sem1app_client" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.sem1app_product" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.sem1app_order" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />
@@ -49,7 +52,7 @@
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="e5e16ef3-0537-44c5-b551-ea254125c328" active="true" signed="true">
+      <connection id="a03ecf4b-dddb-40da-af48-bad046331cee" active="true" signed="true">
         <database>
           <name value="Connection" />
           <description value="" />
@@ -66,7 +69,7 @@
           <tns-folder value="" />
           <tns-profile value="" />
           <files>
-            <file path="C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\db.sqlite3" schema="main" />
+            <file path="C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\db.sqlite3" schema="main" />
           </files>
           <type value="NONE" />
           <user value="" />

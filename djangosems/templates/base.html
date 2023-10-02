@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} Базовый шаблон {% endblock %}</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Главная</a></li>
+            <li><a href="/about">Обо мне</a></li>
+            <li><a href="/orders">Заказы</a></li>
+        </ul>
+    </nav>
+
+{% block content %}
+<p> Вы видите это сообщение, потому что при загрузке шаблона что-то пошло не так. <br>
+    Так быть не должно!<br>
+    Простите!
+</p>
+{% endblock %}
+
+</body>
+</html>
