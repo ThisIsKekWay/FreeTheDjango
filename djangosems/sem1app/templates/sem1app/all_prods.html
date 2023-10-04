@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Товары
+{% endblock %}
+
+
+{% block content %}
+<h2>
+    Список товаров
+</h2>
+    <table>
+        <tr>
+            <th>Название</th>
+            <th>Описание</th>
+            <th>Цена</th>
+            <th>Количество</th>
+            <th>Дата изменения</th>
+            <th>Изображение</th>
+            <th>Действия</th>
+        </tr>
+        {% for prod in prods %}
+            <tr>
+                <td>{{ prod.name }}</td>
+                <td>{{ prod.description }}</td>
+                <td>{{ prod.price }}</td>
+                <td>{{ prod.quantity }}</td>
+                <td>{{ prod.updated }}</td>
+                <td><img src="{{ prod.image.url }}" alt="{{ prod.name }}"></td>
+                <td><form action="{% url 'product_details' prod.id %}" method="get">
+                        <button type="submit">Подробнее</button>
+                    </form></td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}

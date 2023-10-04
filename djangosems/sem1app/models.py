@@ -24,13 +24,15 @@ class Product(models.Model):
     price = models.DecimalField(decimal_places=2, max_digits=8)
     quantity = models.IntegerField()
     updated = models.DateTimeField(auto_now=True)
+    image = models.ImageField(default='products/default.jpg', upload_to='products/')
 
     def __str__(self):
-        return (f'Name: {self.name},'
+        return (f'name: {self.name},'
                 f'description: {self.description}, '
                 f'price: {self.price},'
                 f'quantity: {self.quantity},'
-                f'updated: {self.updated}')
+                f'updated: {self.updated}',
+                f'Image: {self.image}')
 
 
 class Order(models.Model):

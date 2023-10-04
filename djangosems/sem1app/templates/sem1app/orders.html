@@ -15,6 +15,7 @@
             <th>Продукт</th>
             <th>Цена</th>
             <th>Дата заказа</th>
+            <th>Изображение</th>
         </tr>
         {% for order in orders %}
             <tr>
@@ -22,6 +23,7 @@
                 <td>{{ order.product.name }}</td>
                 <td>{{ order.total_price }}</td>
                 <td>{{ order.order_date.date }}</td>
+                <td><img src="{{ order.product.image.url }}" alt="{{ order.product.name }}"></td>
             </tr>
         {% endfor %}
     </table>

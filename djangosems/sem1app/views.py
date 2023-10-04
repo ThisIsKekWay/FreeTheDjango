@@ -1,9 +1,12 @@
 import datetime
+import io
 
+from PIL import Image
+from django.core.files import File
 from django.shortcuts import render
-from django.http import HttpResponse
 import logging
-from .models import Client, Order, Max, Q
+from .models import Client, Order, Max, Product
+from .forms import ImageForm
 
 # Create your views here.
 logger = logging.getLogger(__name__)
@@ -64,4 +67,39 @@ def order_by_id(request, id, time):
         ).order_by('-order_date').all()
 
     user_name = Client.objects.filter(pk=id).first()
-    return render(request, 'sem1app/order_by_id.html', {'user_orders': order, 'user_name': user_name})
+    return render(request, 'sem1app/order_by_id.html',
+                  {'user_orders': order, 'user_name': user_name})
+
+
+def all_prods(request):
+    prods = Product.objects.all()
+    return render(request, 'sem1app/all_prods.html', {'prods': prods})
+
+
+def product_details(request, product_id):
+    """
+    Заменяет фотку на странице с товаром. Основная ягодка в том, что я добавил ужатие каждой фотки до 300х300 пикселей.
+    Топтал я эту верстку, так что делаем красиво из камней и палок. Сами фотки отображаются и на странице с заказами и
+    на истории заказов по юзеру. Грузим в отдельную папку, т.к. думаю, для аватарок пользователей придется также
+    грузить фоты. Играться можно вечно =) Товары кстати имеют дефолтный image, где скзаано NO IMAGE. Поняли, да?
+    NO IMAGE IMAGE
+    """
+    product = Product.objects.filter(pk=product_id).first()
+    if request.method == 'POST':
+        form = ImageForm(request.POST, request.FILES)
+        if form.is_valid():
+            image = form.cleaned_data['image']
+            image = Image.open(image)
+            image.thumbnail((300, 300))
+            buffer = io.BytesIO()
+            image.save(buffer, 'JPEG')
+            image_file = File(buffer, name=f'compressed_image_{product_id}.jpeg')
+            product.image = image_file
+            product.updated = datetime.datetime.now()
+            product.save()
+            return render(request, 'sem1app/product_details.html',
+                          {'product': product, 'form': form})
+    else:
+        form = ImageForm()
+    return render(request, 'sem1app/product_details.html',
+                  {'product': product, 'form': form})

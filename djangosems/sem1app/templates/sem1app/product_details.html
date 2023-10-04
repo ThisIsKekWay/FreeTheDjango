@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Продукт {{ product.name }}
+{% endblock %}
+
+{% block content %}
+    <h2> Название {{ product.name }}</h2>
+    <p> Описание: {{ product.description }}</p>
+    <p> Стоимость {{ product.price }}</p>
+    <p> Количество: {{ product.quantity }}</p>
+    <p> Дата изменения: {{ product.updated }}</p>
+    <p><img src="{{ product.image.url }}" alt="{{ product.name }}"></p>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Загрузить">
+    </form>
+{% endblock %}
