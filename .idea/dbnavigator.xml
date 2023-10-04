@@ -28,6 +28,12 @@
     <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.sem1app_client" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.sem1app_product" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="a03ecf4b-dddb-40da-af48-bad046331cee" dataset="main.sem1app_order" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="bf40be5b-7c3c-4fbc-9031-ac0920e29d11" dataset="main.sem1app_client" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="bf40be5b-7c3c-4fbc-9031-ac0920e29d11" dataset="main.django_migrations" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="bf40be5b-7c3c-4fbc-9031-ac0920e29d11" dataset="main.sem1app_product" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="bf40be5b-7c3c-4fbc-9031-ac0920e29d11" dataset="main.django_content_type" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="bf40be5b-7c3c-4fbc-9031-ac0920e29d11" dataset="main.django_session" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="bf40be5b-7c3c-4fbc-9031-ac0920e29d11" dataset="main.sem1app_order" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />

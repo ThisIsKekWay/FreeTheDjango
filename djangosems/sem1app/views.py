@@ -3,7 +3,7 @@ import datetime
 from django.shortcuts import render
 from django.http import HttpResponse
 import logging
-from .models import Client, Order, Product, Max
+from .models import Client, Order, Max, Q
 
 # Create your views here.
 logger = logging.getLogger(__name__)
@@ -20,11 +20,25 @@ def about_me(request):
 
 
 def orders(request):
-    last_orders = Order.objects.values('client_id').annotate(last_order_date=Max('order_date')).order_by('client_id')
+    """
+    Попытка получить последние заказы каждого юзера. Прошлая провалилась, т.к. при одинаковой дате заказов могли
+    всплывать лишние значения, когда имя юзера есть в QuerySet в одном кортеже, а дата последнего заказа в другом.
 
-    orders = Order.objects.filter(
-        order_date__in=last_orders.values('last_order_date')
-    ).order_by('-order_date')
+    Идея в том, чтобы взять список юзеров, пройти по id в цикле, и получить заказы с максимальной датой внутри таблицы
+    заказов по User_id. Id этих заказов заливаем в список, в итоге получаем итерируемый объект, содержащий числа int,
+    который нормально обрабатывается в фильтре orm.
+
+    Решение спорное, т.к. при большом числе юзеров это будет занимать непозволительно много времени, однако оно рабочее.
+    """
+
+    users = Client.objects.all()
+    last_orders = []
+    for user in users:
+        last_order = Order.objects.filter(client_id=user.id).order_by('-order_date').first()
+        if last_order is not None:
+            last_orders.append(last_order.id)
+
+    orders = Order.objects.filter(id__in=last_orders).order_by('-order_date')
 
     return render(request, 'sem1app/orders.html', {'orders': orders})
 
@@ -35,13 +49,13 @@ def order_by_id(request, id, time):
                   values('product_id').
                   annotate(last_order_date=Max('order_date')).
                   order_by('product_id')
-                  ).all()
+                  )
 
     order = (Order.objects.
              filter(client_id=id,
-                    order_date__in=last_prods.values('last_order_date')).
-             all().
-             order_by('-order_date')
+                    order_date__in=last_prods.values('last_order_date'))
+             .all()
+             .order_by('-order_date')
              )
 
     if time != 0:

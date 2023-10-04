@@ -7584,3 +7584,1189 @@ INFO 2023-10-02 14:19:45,042 basehttp 12996 4944 "GET /order_by_id/7/0/ HTTP/1.1
 INFO 2023-10-02 14:19:46,833 basehttp 12996 4944 "GET /order_by_id/7/0/ HTTP/1.1" 200 1419
 INFO 2023-10-02 14:20:15,088 autoreload 12996 15116 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
 INFO 2023-10-02 14:20:15,799 autoreload 15956 15168 Watching for file changes with StatReloader
+INFO 2023-10-03 15:12:21,132 autoreload 16156 4940 Watching for file changes with StatReloader
+INFO 2023-10-03 15:12:23,315 basehttp 16156 13980 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:13:16,111 autoreload 16156 4940 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:13:16,677 autoreload 8112 14088 Watching for file changes with StatReloader
+INFO 2023-10-03 15:13:19,166 basehttp 8112 1580 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:13:54,164 autoreload 8112 14088 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:13:54,741 autoreload 5160 10012 Watching for file changes with StatReloader
+INFO 2023-10-03 15:13:55,259 basehttp 5160 14880 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:13:59,434 views 5160 14880 Юзверь зашел на главную страницу
+INFO 2023-10-03 15:13:59,436 basehttp 5160 14880 "GET / HTTP/1.1" 200 511
+INFO 2023-10-03 15:14:00,611 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:01,711 basehttp 5160 14880 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:14:03,495 basehttp 5160 14880 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:14:04,396 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:05,474 basehttp 5160 14880 "GET /order_by_id/7/0/ HTTP/1.1" 200 1419
+INFO 2023-10-03 15:14:07,541 basehttp 5160 14880 "GET /order_by_id/7/0/ HTTP/1.1" 200 1419
+INFO 2023-10-03 15:14:08,773 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:09,591 basehttp 5160 14880 "GET /order_by_id/5/0/ HTTP/1.1" 200 1420
+INFO 2023-10-03 15:14:11,029 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:11,835 basehttp 5160 14880 "GET /order_by_id/6/0/ HTTP/1.1" 200 1715
+INFO 2023-10-03 15:14:14,340 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:15,558 basehttp 5160 14880 "GET /order_by_id/3/0/ HTTP/1.1" 200 1275
+INFO 2023-10-03 15:14:16,605 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:17,449 basehttp 5160 14880 "GET /order_by_id/5/0/ HTTP/1.1" 200 1420
+INFO 2023-10-03 15:14:18,731 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:19,735 basehttp 5160 14880 "GET /order_by_id/8/0/ HTTP/1.1" 200 1424
+INFO 2023-10-03 15:14:21,313 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:22,102 basehttp 5160 14880 "GET /order_by_id/8/0/ HTTP/1.1" 200 1424
+INFO 2023-10-03 15:14:23,240 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:24,083 basehttp 5160 14880 "GET /order_by_id/7/0/ HTTP/1.1" 200 1419
+INFO 2023-10-03 15:14:25,064 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:26,009 basehttp 5160 14880 "GET /order_by_id/4/0/ HTTP/1.1" 200 1125
+INFO 2023-10-03 15:14:27,400 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:14:28,270 basehttp 5160 14880 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:14:29,564 basehttp 5160 14880 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:15:04,010 autoreload 5160 10012 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:15:04,565 autoreload 4988 13236 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:15:06,171 log 4988 8436 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'builtin_function_or_method'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 23, in orders
+    last_orders = (Order.objects.filter(client_id=id)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1318, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <built-in function id>.
+ERROR 2023-10-03 15:15:06,178 basehttp 4988 8436 "GET /orders/ HTTP/1.1" 500 139958
+INFO 2023-10-03 15:16:55,484 autoreload 4988 13236 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:16:56,034 autoreload 10680 6428 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:16:57,973 log 10680 4816 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2161, in add_fields
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'last_order_date' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 34, in orders
+    order_date__in=last_orders.values('last_order_date')
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1313, in values
+    clone = self._values(*fields, **expressions)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1308, in _values
+    clone.query.set_values(fields)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2460, in set_values
+    self.add_fields(field_names, True)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2194, in add_fields
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'last_order_date' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+ERROR 2023-10-03 15:16:57,977 basehttp 10680 4816 "GET /orders/ HTTP/1.1" 500 104668
+INFO 2023-10-03 15:17:18,183 autoreload 10680 6428 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:17:18,730 autoreload 5320 15924 Watching for file changes with StatReloader
+INFO 2023-10-03 15:17:20,941 basehttp 5320 13272 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:17:57,248 basehttp 5320 13272 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:17:59,520 basehttp 5320 13272 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:18:00,578 basehttp 5320 13272 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:18:01,575 basehttp 5320 13272 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:18:02,340 basehttp 5320 13272 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-03 15:18:04,318 basehttp 5320 13272 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:19:16,633 autoreload 5320 15924 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:19:17,182 autoreload 4776 3452 Watching for file changes with StatReloader
+INFO 2023-10-03 15:19:19,150 basehttp 4776 8020 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:19:39,291 autoreload 4776 3452 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:19:39,856 autoreload 7668 16104 Watching for file changes with StatReloader
+INFO 2023-10-03 15:19:40,976 basehttp 7668 15648 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:21:23,168 autoreload 7668 16104 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:21:23,700 autoreload 15488 7192 Watching for file changes with StatReloader
+INFO 2023-10-03 15:21:27,988 basehttp 15488 3856 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:21:39,647 autoreload 15488 7192 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:21:40,226 autoreload 9260 3052 Watching for file changes with StatReloader
+INFO 2023-10-03 15:21:41,826 basehttp 9260 12124 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:24:17,288 autoreload 9260 3052 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:24:17,855 autoreload 8056 10820 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:24:20,392 log 8056 13380 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2161, in add_fields
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'order_id' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 28, in orders
+    last_orders = Order.objects.values('client_id', 'order_id').annotate(max_order_date=Max('order_date')).filter(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1313, in values
+    clone = self._values(*fields, **expressions)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1308, in _values
+    clone.query.set_values(fields)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2460, in set_values
+    self.add_fields(field_names, True)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2194, in add_fields
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'order_id' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+ERROR 2023-10-03 15:24:20,397 basehttp 8056 13380 "GET /orders/ HTTP/1.1" 500 120709
+INFO 2023-10-03 15:24:27,682 autoreload 8056 10820 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:24:28,250 autoreload 1996 7744 Watching for file changes with StatReloader
+INFO 2023-10-03 15:24:30,264 basehttp 1996 14356 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:25:18,231 autoreload 1996 7744 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:25:18,788 autoreload 1580 3652 Watching for file changes with StatReloader
+INFO 2023-10-03 15:25:23,063 autoreload 1580 3652 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:25:23,604 autoreload 7664 15420 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:25:25,041 log 7664 7208 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2161, in add_fields
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'max_order_date' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 36, in orders
+    order_date__in=last_orders.values('max_order_date'),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1313, in values
+    clone = self._values(*fields, **expressions)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1308, in _values
+    clone.query.set_values(fields)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2460, in set_values
+    self.add_fields(field_names, True)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2194, in add_fields
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'max_order_date' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+ERROR 2023-10-03 15:25:25,045 basehttp 7664 7208 "GET /orders/ HTTP/1.1" 500 110063
+INFO 2023-10-03 15:25:35,460 autoreload 7664 15420 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:25:36,130 autoreload 2312 13612 Watching for file changes with StatReloader
+INFO 2023-10-03 15:25:37,177 basehttp 2312 15508 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 15:26:04,281 autoreload 2312 13612 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:26:04,859 autoreload 15976 14332 Watching for file changes with StatReloader
+INFO 2023-10-03 15:26:06,271 basehttp 15976 16292 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 15:27:54,753 autoreload 15976 14332 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:27:55,293 autoreload 6008 10252 Watching for file changes with StatReloader
+INFO 2023-10-03 15:28:00,801 autoreload 6008 10252 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:28:01,355 autoreload 6448 9904 Watching for file changes with StatReloader
+INFO 2023-10-03 15:28:03,140 basehttp 6448 13480 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:28:30,719 autoreload 6448 9904 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:28:31,294 autoreload 4216 14472 Watching for file changes with StatReloader
+INFO 2023-10-03 15:28:34,753 autoreload 4216 14472 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:28:35,303 autoreload 9256 4572 Watching for file changes with StatReloader
+INFO 2023-10-03 15:28:37,940 basehttp 9256 2088 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:29:01,641 autoreload 9256 4572 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:29:02,172 autoreload 14104 15224 Watching for file changes with StatReloader
+INFO 2023-10-03 15:29:03,566 basehttp 14104 916 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:29:46,031 autoreload 14104 15224 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:29:46,638 autoreload 14456 16296 Watching for file changes with StatReloader
+INFO 2023-10-03 15:29:48,209 basehttp 14456 10256 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:30:04,583 autoreload 14456 16296 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:30:05,144 autoreload 16304 15816 Watching for file changes with StatReloader
+INFO 2023-10-03 15:30:07,007 basehttp 16304 964 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:30:52,960 autoreload 16304 15816 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:30:53,515 autoreload 16264 5952 Watching for file changes with StatReloader
+INFO 2023-10-03 15:30:55,039 basehttp 16264 15732 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:31:02,216 autoreload 16264 5952 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:31:02,769 autoreload 1728 1556 Watching for file changes with StatReloader
+INFO 2023-10-03 15:31:04,230 basehttp 1728 3668 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:31:12,167 basehttp 1728 3668 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:32:51,611 autoreload 1728 1556 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:32:52,185 autoreload 15128 14664 Watching for file changes with StatReloader
+INFO 2023-10-03 15:32:53,956 basehttp 15128 13120 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:33:49,346 autoreload 15128 14664 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:33:49,918 autoreload 7984 14044 Watching for file changes with StatReloader
+INFO 2023-10-03 15:33:51,604 basehttp 7984 2532 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:34:30,563 autoreload 7984 14044 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:34:31,148 autoreload 16156 14076 Watching for file changes with StatReloader
+INFO 2023-10-03 15:34:32,683 basehttp 16156 15588 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:34:48,045 autoreload 16156 14076 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:34:48,606 autoreload 9208 16000 Watching for file changes with StatReloader
+INFO 2023-10-03 15:34:49,724 basehttp 9208 3040 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 15:35:48,551 autoreload 9208 16000 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:35:49,105 autoreload 12484 8536 Watching for file changes with StatReloader
+INFO 2023-10-03 15:35:54,380 autoreload 12484 8536 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:35:54,926 autoreload 9172 7408 Watching for file changes with StatReloader
+INFO 2023-10-03 15:35:56,638 basehttp 9172 2424 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 15:36:17,179 autoreload 9172 7408 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:36:17,743 autoreload 16016 3652 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:36:19,277 log 16016 4888 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2161, in add_fields
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'last_order_date' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 32, in orders
+    order_date__in=last_orders.values('last_order_date'),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1313, in values
+    clone = self._values(*fields, **expressions)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1308, in _values
+    clone.query.set_values(fields)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2460, in set_values
+    self.add_fields(field_names, True)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2181, in add_fields
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot select the 'last_order_date' alias. Use annotate() to promote it.
+ERROR 2023-10-03 15:36:19,281 basehttp 16016 4888 "GET /orders/ HTTP/1.1" 500 101854
+INFO 2023-10-03 15:37:04,549 autoreload 16016 3652 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:37:05,110 autoreload 12888 6832 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:37:06,901 log 12888 4892 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2161, in add_fields
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1823, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'last_order_date' into field. Choices are: client, client_id, id, order_date, product, product_id, total_price
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 31, in orders
+    order_date__in=last_orders.values('last_order_date'),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1313, in values
+    clone = self._values(*fields, **expressions)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1308, in _values
+    clone.query.set_values(fields)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2460, in set_values
+    self.add_fields(field_names, True)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 2181, in add_fields
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot select the 'last_order_date' alias. Use annotate() to promote it.
+ERROR 2023-10-03 15:37:06,905 basehttp 12888 4892 "GET /orders/ HTTP/1.1" 500 103618
+INFO 2023-10-03 15:37:33,358 autoreload 12888 6832 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:37:33,932 autoreload 7612 5536 Watching for file changes with StatReloader
+INFO 2023-10-03 15:37:35,471 basehttp 7612 16360 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:38:00,229 autoreload 7612 5536 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:38:00,783 autoreload 15884 12660 Watching for file changes with StatReloader
+INFO 2023-10-03 15:38:02,285 basehttp 15884 2220 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:38:35,343 autoreload 15884 12660 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:38:35,892 autoreload 11124 10400 Watching for file changes with StatReloader
+INFO 2023-10-03 15:39:45,748 autoreload 11124 10400 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:39:46,288 autoreload 1680 3980 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:39:50,640 log 1680 8364 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 32, in orders
+    Order.filter(client_id__in=last_orders.values('client_id')
+    ^^^^^^^^^^^^
+AttributeError: type object 'Order' has no attribute 'filter'
+ERROR 2023-10-03 15:39:50,642 basehttp 1680 8364 "GET /orders/ HTTP/1.1" 500 66347
+INFO 2023-10-03 15:40:02,232 autoreload 1680 3980 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:40:02,819 autoreload 10584 12472 Watching for file changes with StatReloader
+INFO 2023-10-03 15:40:04,183 basehttp 10584 15884 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:40:46,642 autoreload 10584 12472 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:40:47,226 autoreload 13400 15648 Watching for file changes with StatReloader
+INFO 2023-10-03 15:40:52,532 autoreload 13400 15648 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:40:53,250 autoreload 7732 15764 Watching for file changes with StatReloader
+INFO 2023-10-03 15:40:54,843 basehttp 7732 8712 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:41:27,924 autoreload 7732 15764 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:41:28,478 autoreload 15180 15132 Watching for file changes with StatReloader
+INFO 2023-10-03 15:41:30,339 basehttp 15180 1776 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:42:53,559 autoreload 15180 15132 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:42:54,103 autoreload 16100 3980 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:42:58,117 log 16100 9412 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 31, in orders
+    order_date__in=last_orders.values('last_order_date') &
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 457, in __and__
+    self._merge_sanity_check(other)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1906, in _merge_sanity_check
+    raise TypeError(
+TypeError: Merging 'QuerySet' classes must involve the same values in each case.
+ERROR 2023-10-03 15:42:58,120 basehttp 16100 9412 "GET /orders/ HTTP/1.1" 500 84386
+INFO 2023-10-03 15:44:03,527 autoreload 16100 3980 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:44:04,088 autoreload 9300 9896 Watching for file changes with StatReloader
+INFO 2023-10-03 15:44:05,838 basehttp 9300 12788 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:44:46,862 autoreload 9300 9896 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:44:47,456 autoreload 8440 1388 Watching for file changes with StatReloader
+INFO 2023-10-03 15:45:06,023 autoreload 8440 1388 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:45:06,573 autoreload 9260 13624 Watching for file changes with StatReloader
+INFO 2023-10-03 15:45:09,972 basehttp 9260 16316 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:45:37,003 autoreload 9260 13624 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:45:37,563 autoreload 15224 9164 Watching for file changes with StatReloader
+INFO 2023-10-03 15:45:38,892 basehttp 15224 1052 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:46:18,271 autoreload 15224 9164 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:46:18,823 autoreload 13728 9252 Watching for file changes with StatReloader
+INFO 2023-10-03 15:49:10,204 autoreload 13728 9252 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-03 15:49:10,773 autoreload 8116 1284 Watching for file changes with StatReloader
+INFO 2023-10-03 15:49:13,497 basehttp 8116 1600 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:50:52,702 basehttp 8116 1600 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:51:06,879 autoreload 8116 1284 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:51:07,464 autoreload 12968 10640 Watching for file changes with StatReloader
+INFO 2023-10-03 15:51:09,073 basehttp 12968 9200 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:51:29,688 autoreload 12968 10640 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:51:30,258 autoreload 8928 3932 Watching for file changes with StatReloader
+INFO 2023-10-03 15:51:31,837 basehttp 8928 3036 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:51:37,926 autoreload 8928 3932 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:51:38,505 autoreload 6504 16328 Watching for file changes with StatReloader
+INFO 2023-10-03 15:51:39,181 basehttp 6504 8420 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:51:53,263 autoreload 6504 16328 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:51:53,818 autoreload 14036 13172 Watching for file changes with StatReloader
+INFO 2023-10-03 15:51:54,262 basehttp 14036 12968 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:52:02,339 autoreload 14036 13172 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:52:02,923 autoreload 12848 14684 Watching for file changes with StatReloader
+INFO 2023-10-03 15:52:07,172 autoreload 12848 14684 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:52:07,722 autoreload 4248 2320 Watching for file changes with StatReloader
+INFO 2023-10-03 15:52:08,735 basehttp 4248 5992 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:52:42,123 autoreload 4248 2320 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:52:42,673 autoreload 1256 2824 Watching for file changes with StatReloader
+INFO 2023-10-03 15:52:44,147 basehttp 1256 8512 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 15:52:59,672 autoreload 1256 2824 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:53:00,265 autoreload 14332 4696 Watching for file changes with StatReloader
+INFO 2023-10-03 15:53:02,007 basehttp 14332 9252 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:53:50,206 autoreload 14332 4696 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:53:50,765 autoreload 13172 4824 Watching for file changes with StatReloader
+INFO 2023-10-03 15:53:52,566 basehttp 13172 13276 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:54:03,652 autoreload 13172 4824 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:54:04,234 autoreload 15744 13100 Watching for file changes with StatReloader
+INFO 2023-10-03 15:54:05,581 basehttp 15744 9088 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:54:34,712 autoreload 15744 13100 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:54:35,270 autoreload 9420 8920 Watching for file changes with StatReloader
+INFO 2023-10-03 15:56:04,434 autoreload 9420 8920 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:56:04,983 autoreload 11532 11428 Watching for file changes with StatReloader
+ERROR 2023-10-03 15:56:07,843 log 11532 9340 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 30, in orders
+    orders = Order.objects.filter(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1318, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\related_lookups.py", line 168, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 337, in get_prep_lookup
+    raise ValueError(
+ValueError: The QuerySet value for an exact lookup must be limited to one result using slicing.
+ERROR 2023-10-03 15:56:07,849 basehttp 11532 9340 "GET /orders/ HTTP/1.1" 500 159495
+INFO 2023-10-03 15:56:25,024 autoreload 11532 11428 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:56:25,587 autoreload 16316 8148 Watching for file changes with StatReloader
+INFO 2023-10-03 15:57:27,038 basehttp 16316 15876 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 15:58:44,175 autoreload 16316 8148 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:58:44,720 autoreload 2820 11180 Watching for file changes with StatReloader
+INFO 2023-10-03 15:59:24,255 autoreload 2820 11180 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:59:24,820 autoreload 7020 10584 Watching for file changes with StatReloader
+INFO 2023-10-03 15:59:26,716 basehttp 7020 5972 "GET /orders/ HTTP/1.1" 200 4959
+INFO 2023-10-03 15:59:39,731 autoreload 7020 10584 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 15:59:40,289 autoreload 13660 32 Watching for file changes with StatReloader
+INFO 2023-10-03 15:59:41,560 basehttp 13660 3340 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 16:05:37,017 autoreload 13660 32 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:05:37,572 autoreload 2752 14856 Watching for file changes with StatReloader
+ERROR 2023-10-03 16:05:42,201 log 2752 15992 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 35, in orders
+    return render(request, 'sem1app/orders.html', {'orders': last_orders})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'order_by_id' with arguments '('', 0)' not found. 1 pattern(s) tried: ['order_by_id/(?P<id>[0-9]+)/(?P<time>[0-9]+)/\\Z']
+ERROR 2023-10-03 16:05:42,210 basehttp 2752 15992 "GET /orders/ HTTP/1.1" 500 200960
+INFO 2023-10-03 16:06:14,099 autoreload 2752 14856 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:06:14,645 autoreload 7116 15920 Watching for file changes with StatReloader
+INFO 2023-10-03 16:42:17,118 autoreload 16340 12888 Watching for file changes with StatReloader
+INFO 2023-10-03 16:42:22,235 views 16340 7676 Юзверь зашел на главную страницу
+INFO 2023-10-03 16:42:22,241 basehttp 16340 7676 "GET / HTTP/1.1" 200 511
+INFO 2023-10-03 16:42:29,429 basehttp 16340 7676 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 16:44:49,557 autoreload 16340 12888 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:44:50,170 autoreload 776 15832 Watching for file changes with StatReloader
+INFO 2023-10-03 16:44:51,783 basehttp 776 9208 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 16:45:20,524 autoreload 776 15832 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:45:21,119 autoreload 10436 2324 Watching for file changes with StatReloader
+INFO 2023-10-03 16:45:22,761 basehttp 10436 3148 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 16:45:38,056 autoreload 10436 2324 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:45:38,629 autoreload 15200 15732 Watching for file changes with StatReloader
+INFO 2023-10-03 16:45:40,467 basehttp 15200 4664 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 16:46:39,042 autoreload 15200 15732 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:46:39,629 autoreload 7820 16012 Watching for file changes with StatReloader
+INFO 2023-10-03 16:46:40,428 basehttp 7820 11020 "GET /orders/ HTTP/1.1" 200 7073
+INFO 2023-10-03 16:49:34,200 autoreload 7820 16012 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:49:34,812 autoreload 9352 8304 Watching for file changes with StatReloader
+INFO 2023-10-03 16:49:35,699 basehttp 9352 13732 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 16:50:33,798 autoreload 9352 8304 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:50:34,367 autoreload 12232 15368 Watching for file changes with StatReloader
+INFO 2023-10-03 16:50:35,488 basehttp 12232 15628 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 16:56:38,328 autoreload 12232 15368 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:56:38,889 autoreload 13180 15364 Watching for file changes with StatReloader
+ERROR 2023-10-03 16:56:41,158 log 13180 7264 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 29, in orders
+    print(last_orders, sep='\n')
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 374, in __repr__
+    data = list(self[: REPR_OUTPUT_SIZE + 1])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 208, in __iter__
+    for row in compiler.results_iter(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 1513, in results_iter
+    results = self.execute_sql(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 309, in get_select
+    sql, params = col.select_format(self, sql, params)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\expressions.py", line 468, in select_format
+    if hasattr(self.output_field, "select_format"):
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\expressions.py", line 301, in output_field
+    raise FieldError("Cannot resolve expression type, unknown output_field")
+django.core.exceptions.FieldError: Cannot resolve expression type, unknown output_field
+ERROR 2023-10-03 16:56:41,165 basehttp 13180 7264 "GET /orders/ HTTP/1.1" 500 122457
+INFO 2023-10-03 16:56:53,862 autoreload 13180 15364 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:56:54,465 autoreload 5708 4224 Watching for file changes with StatReloader
+ERROR 2023-10-03 16:56:57,424 log 5708 2736 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 35, in orders
+    return render(request, 'sem1app/orders.html', {'orders': orders})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\template\defaulttags.py", line 194, in render
+    len_values = len(values)
+                 ^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 764, in as_sql
+    self.compile(self.where) if self.where is not None else ("", [])
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 546, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\where.py", line 145, in as_sql
+    sql, params = compiler.compile(child)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 546, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 465, in as_sql
+    return super().as_sql(compiler, connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 225, in as_sql
+    rhs_sql, rhs_params = self.process_rhs(compiler, connection)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 452, in process_rhs
+    return super().process_rhs(compiler, connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 286, in process_rhs
+    return super().process_rhs(compiler, connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 118, in process_rhs
+    sql, params = compiler.compile(value)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 546, in compile
+    sql, params = node.as_sql(self, self.connection)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1197, in as_sql
+    sql, params = self.get_compiler(connection=connection).as_sql()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 309, in get_select
+    sql, params = col.select_format(self, sql, params)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\expressions.py", line 468, in select_format
+    if hasattr(self.output_field, "select_format"):
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\expressions.py", line 301, in output_field
+    raise FieldError("Cannot resolve expression type, unknown output_field")
+django.core.exceptions.FieldError: Cannot resolve expression type, unknown output_field
+ERROR 2023-10-03 16:56:57,436 basehttp 5708 2736 "GET /orders/ HTTP/1.1" 500 248113
+INFO 2023-10-03 16:57:30,984 autoreload 5708 4224 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:57:31,563 autoreload 572 3104 Watching for file changes with StatReloader
+INFO 2023-10-03 16:57:39,128 autoreload 572 3104 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:57:39,681 autoreload 16308 7068 Watching for file changes with StatReloader
+INFO 2023-10-03 16:57:40,766 basehttp 16308 7712 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 16:58:08,055 autoreload 16308 7068 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 16:58:08,649 autoreload 15248 13884 Watching for file changes with StatReloader
+INFO 2023-10-03 16:58:11,244 basehttp 15248 11816 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:00:40,217 autoreload 15248 13884 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:00:40,765 autoreload 4572 16348 Watching for file changes with StatReloader
+INFO 2023-10-03 17:00:43,164 basehttp 4572 4744 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:00:53,663 autoreload 4572 16348 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:00:54,275 autoreload 9024 14224 Watching for file changes with StatReloader
+INFO 2023-10-03 17:00:55,001 basehttp 9024 13812 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:01:13,167 autoreload 9024 14224 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:01:13,712 autoreload 13732 2132 Watching for file changes with StatReloader
+INFO 2023-10-03 17:01:15,714 basehttp 13732 15616 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:05:24,951 autoreload 13732 2132 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:05:25,511 autoreload 16252 10388 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:05:27,377 log 16252 4224 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 29, in orders
+    print(last_orders, sep='\n')
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 374, in __repr__
+    data = list(self[: REPR_OUTPUT_SIZE + 1])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 208, in __iter__
+    for row in compiler.results_iter(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 1513, in results_iter
+    results = self.execute_sql(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 1549, in execute_sql
+    sql, params = self.as_sql()
+                  ^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 736, in as_sql
+    extra_select, order_by, group_by = self.pre_sql_setup(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 84, in pre_sql_setup
+    self.setup_query(with_col_aliases=with_col_aliases)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 73, in setup_query
+    self.select, self.klass_info, self.annotation_col_map = self.get_select(
+                                                            ^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\compiler.py", line 309, in get_select
+    sql, params = col.select_format(self, sql, params)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\expressions.py", line 468, in select_format
+    if hasattr(self.output_field, "select_format"):
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\expressions.py", line 301, in output_field
+    raise FieldError("Cannot resolve expression type, unknown output_field")
+django.core.exceptions.FieldError: Cannot resolve expression type, unknown output_field
+ERROR 2023-10-03 17:05:27,382 basehttp 16252 4224 "GET /orders/ HTTP/1.1" 500 122227
+INFO 2023-10-03 17:06:30,198 autoreload 16252 10388 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:06:30,762 autoreload 13648 13276 Watching for file changes with StatReloader
+INFO 2023-10-03 17:06:32,230 basehttp 13648 15832 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:06:56,086 autoreload 13648 13276 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:06:56,632 autoreload 15836 13672 Watching for file changes with StatReloader
+INFO 2023-10-03 17:06:57,978 basehttp 15836 9264 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:07:38,346 autoreload 15836 13672 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:07:38,922 autoreload 15420 7784 Watching for file changes with StatReloader
+INFO 2023-10-03 17:07:39,503 basehttp 15420 2132 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:07:45,139 basehttp 15420 2132 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:08:08,177 autoreload 15420 7784 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:08:08,749 autoreload 4708 7868 Watching for file changes with StatReloader
+INFO 2023-10-03 17:08:09,802 basehttp 4708 5536 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:08:26,980 basehttp 4708 5536 "GET /order_by_id/1/0/ HTTP/1.1" 200 1421
+INFO 2023-10-03 17:09:10,813 autoreload 4708 7868 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:09:11,395 autoreload 8336 15832 Watching for file changes with StatReloader
+INFO 2023-10-03 17:09:12,513 basehttp 8336 1408 "GET /order_by_id/1/0/ HTTP/1.1" 200 1421
+INFO 2023-10-03 17:09:15,656 basehttp 8336 1408 "GET /order_by_id/1/0/ HTTP/1.1" 200 1421
+INFO 2023-10-03 17:09:18,031 basehttp 8336 1408 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:10:01,191 autoreload 8336 15832 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:10:01,753 autoreload 16140 7788 Watching for file changes with StatReloader
+INFO 2023-10-03 17:10:03,294 basehttp 16140 2088 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:10:11,507 autoreload 16140 7788 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:10:12,072 autoreload 15976 15552 Watching for file changes with StatReloader
+INFO 2023-10-03 17:10:13,429 basehttp 15976 9192 "GET /orders/ HTTP/1.1" 200 2845
+INFO 2023-10-03 17:11:26,005 autoreload 15976 15552 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:11:26,547 autoreload 1596 10348 Watching for file changes with StatReloader
+INFO 2023-10-03 17:11:37,203 autoreload 1596 10348 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:11:37,814 autoreload 15564 8448 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:11:38,142 log 15564 1216 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 39, in orders
+    Q(client_id__in=last_orders.values('client_id')) &
+                    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Order' object has no attribute 'values'
+ERROR 2023-10-03 17:11:38,144 basehttp 15564 1216 "GET /orders/ HTTP/1.1" 500 67658
+INFO 2023-10-03 17:11:55,675 autoreload 15564 8448 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:11:56,235 autoreload 7868 4872 Watching for file changes with StatReloader
+INFO 2023-10-03 17:11:57,946 basehttp 7868 9584 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-03 17:13:07,087 autoreload 7868 4872 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:13:07,633 autoreload 14232 5392 Watching for file changes with StatReloader
+INFO 2023-10-03 17:13:14,169 autoreload 14232 5392 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:13:14,729 autoreload 6060 3608 Watching for file changes with StatReloader
+INFO 2023-10-03 17:13:15,513 basehttp 6060 15552 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-03 17:13:34,582 autoreload 6060 3608 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:13:35,159 autoreload 11060 10964 Watching for file changes with StatReloader
+INFO 2023-10-03 17:13:45,161 autoreload 13644 13340 Watching for file changes with StatReloader
+INFO 2023-10-03 17:13:47,590 basehttp 13644 15768 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-03 17:14:45,297 autoreload 13644 13340 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:14:45,863 autoreload 15636 8056 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:14:48,585 log 15636 8104 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'dict'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 39, in orders
+    orders = Order.objects.filter(id__in=last_orders).order_by('-order_date')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1318, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 426, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 276, in get_prep_lookup
+    rhs_value = self.lhs.output_field.get_prep_value(rhs_value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got {'id': 9}.
+ERROR 2023-10-03 17:14:48,593 basehttp 15636 8104 "GET /orders/ HTTP/1.1" 500 148736
+INFO 2023-10-03 17:16:15,115 autoreload 15636 8056 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:16:15,698 autoreload 5444 15920 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:16:21,065 log 5444 15048 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 39, in orders
+    orders = Order.objects.filter(id__in=last_orders['id']).order_by('-order_date')
+                                         ~~~~~~~~~~~^^^^^^
+TypeError: list indices must be integers or slices, not str
+ERROR 2023-10-03 17:16:21,068 basehttp 5444 15048 "GET /orders/ HTTP/1.1" 500 67508
+INFO 2023-10-03 17:16:50,173 autoreload 5444 15920 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:16:50,768 autoreload 7408 14044 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:16:56,211 log 7408 2764 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 26, in orders
+    last_orders.add(Order.objects.filter(client_id=user.id).values('id').order_by('-order_date').first())
+TypeError: unhashable type: 'dict'
+ERROR 2023-10-03 17:16:56,213 basehttp 7408 2764 "GET /orders/ HTTP/1.1" 500 67190
+INFO 2023-10-03 17:17:12,031 autoreload 7408 14044 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:17:12,601 autoreload 11132 16276 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:17:15,007 log 11132 8344 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'tuple'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 39, in orders
+    orders = Order.objects.filter(id__in=last_orders).order_by('-order_date')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1318, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 426, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 276, in get_prep_lookup
+    rhs_value = self.lhs.output_field.get_prep_value(rhs_value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got (12,).
+ERROR 2023-10-03 17:17:15,015 basehttp 11132 8344 "GET /orders/ HTTP/1.1" 500 146109
+INFO 2023-10-03 17:17:32,704 autoreload 11132 16276 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:17:33,254 autoreload 13900 2560 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:17:35,625 log 13900 280 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 26, in orders
+    last_orders.add(Order.objects.filter(client_id=user.id).values_list('id').order_by('-order_date').first())
+    ^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'add'
+ERROR 2023-10-03 17:17:35,626 basehttp 13900 280 "GET /orders/ HTTP/1.1" 500 67144
+INFO 2023-10-03 17:17:42,024 autoreload 13900 2560 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:17:42,591 autoreload 8804 14232 Watching for file changes with StatReloader
+ERROR 2023-10-03 17:17:43,775 log 8804 3660 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'tuple'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 39, in orders
+    orders = Order.objects.filter(id__in=last_orders).order_by('-order_date')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\sql\query.py", line 1318, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 426, in get_prep_lookup
+    return super().get_prep_lookup()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\lookups.py", line 276, in get_prep_lookup
+    rhs_value = self.lhs.output_field.get_prep_value(rhs_value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got (9,).
+ERROR 2023-10-03 17:17:43,782 basehttp 8804 3660 "GET /orders/ HTTP/1.1" 500 146102
+INFO 2023-10-03 17:20:25,855 autoreload 8804 14232 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:20:26,451 autoreload 5280 7468 Watching for file changes with StatReloader
+INFO 2023-10-03 17:20:28,239 basehttp 5280 12808 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-03 17:21:22,655 autoreload 5280 7468 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-03 17:21:23,234 autoreload 13724 9436 Watching for file changes with StatReloader
+INFO 2023-10-03 17:21:23,812 basehttp 13724 12496 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-03 18:38:22,449 autoreload 7120 13268 Watching for file changes with StatReloader
+INFO 2023-10-03 18:38:26,023 views 7120 9692 Юзверь зашел на главную страницу
+INFO 2023-10-03 18:38:26,032 basehttp 7120 9692 "GET / HTTP/1.1" 200 511
+INFO 2023-10-04 08:49:45,848 autoreload 15104 5764 Watching for file changes with StatReloader
+INFO 2023-10-04 08:49:48,369 views 15104 1104 Юзверь зашел на главную страницу
+INFO 2023-10-04 08:49:48,404 basehttp 15104 1104 "GET / HTTP/1.1" 200 511
+WARNING 2023-10-04 08:49:48,685 log 15104 1104 Not Found: /favicon.ico
+WARNING 2023-10-04 08:49:48,686 basehttp 15104 1104 "GET /favicon.ico HTTP/1.1" 404 2822
+INFO 2023-10-04 08:49:50,956 basehttp 15104 1104 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-04 08:50:10,160 autoreload 15104 5764 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 08:50:10,719 autoreload 14276 1068 Watching for file changes with StatReloader
+ERROR 2023-10-04 08:50:12,922 log 14276 8368 Internal Server Error: /orders/
+Traceback (most recent call last):
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\FreeTheDjango\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py", line 27, in orders
+    last_orders.append(*Order.objects.filter(client_id=user.id).values_list('id').order_by('-order_date').first())
+TypeError: list.append() argument after * must be an iterable, not NoneType
+ERROR 2023-10-04 08:50:12,924 basehttp 14276 8368 "GET /orders/ HTTP/1.1" 500 67211
+INFO 2023-10-04 08:50:24,620 autoreload 14276 1068 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 08:50:25,218 autoreload 2556 10608 Watching for file changes with StatReloader
+INFO 2023-10-04 08:50:26,008 basehttp 2556 11832 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-04 08:51:27,359 autoreload 2556 10608 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 08:51:27,902 autoreload 13620 14504 Watching for file changes with StatReloader
+INFO 2023-10-04 08:51:29,399 basehttp 13620 8188 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-04 08:51:38,723 autoreload 13620 14504 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 08:51:39,292 autoreload 12924 9884 Watching for file changes with StatReloader
+INFO 2023-10-04 08:51:40,406 basehttp 12924 11944 "GET /orders/ HTTP/1.1" 200 731
+INFO 2023-10-04 08:51:47,845 autoreload 12924 9884 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 08:51:48,404 autoreload 7412 7356 Watching for file changes with StatReloader
+INFO 2023-10-04 08:51:50,480 basehttp 7412 15292 "GET /orders/ HTTP/1.1" 200 2633
+INFO 2023-10-04 08:57:39,740 autoreload 7412 7356 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 08:57:40,364 autoreload 8052 10640 Watching for file changes with StatReloader
+INFO 2023-10-04 08:57:40,595 basehttp 8052 9856 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-04 08:57:41,944 basehttp 8052 9856 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-04 08:57:42,542 basehttp 8052 9856 "GET /order_by_id/2/7/ HTTP/1.1" 200 1126
+INFO 2023-10-04 08:57:43,392 basehttp 8052 9856 "GET /order_by_id/2/30/ HTTP/1.1" 200 1275
+INFO 2023-10-04 08:57:43,802 basehttp 8052 9856 "GET /order_by_id/2/365/ HTTP/1.1" 200 1572
+INFO 2023-10-04 08:57:44,661 basehttp 8052 9856 "GET /order_by_id/2/0/ HTTP/1.1" 200 1572
+INFO 2023-10-04 08:59:26,149 autoreload 8052 10640 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 08:59:26,793 autoreload 9576 5780 Watching for file changes with StatReloader
+INFO 2023-10-04 09:00:56,956 autoreload 9576 5780 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 09:00:57,622 autoreload 6440 2804 Watching for file changes with StatReloader
