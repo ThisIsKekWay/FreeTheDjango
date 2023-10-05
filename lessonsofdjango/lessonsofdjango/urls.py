@@ -23,4 +23,5 @@ urlpatterns = [
     path('prefix/', include('lection1app.urls')),
     path('lec3/', include('lection3app.urls')),
     path('', index_view, name='index'),
+    path('lection4/', include('lection4app.urls')),
 ]
