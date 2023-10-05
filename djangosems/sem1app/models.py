@@ -1,6 +1,7 @@
 from django.db import models
 from django.db.models import Max
 from django.db.models import Q
+from django.utils.html import mark_safe
 
 
 class Client(models.Model):
@@ -11,11 +12,7 @@ class Client(models.Model):
     reg_date = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return (f'Name: {self.name},'
-                f'e-mail: {self.email},'
-                f'address: {self.address}, '
-                f'phone number: {self.phone_num}, '
-                f'registration date: {self.reg_date}')
+        return f'Name: {self.name}'
 
 
 class Product(models.Model):
@@ -27,12 +24,13 @@ class Product(models.Model):
     image = models.ImageField(default='products/default.jpg', upload_to='products/')
 
     def __str__(self):
-        return (f'name: {self.name},'
-                f'description: {self.description}, '
-                f'price: {self.price},'
-                f'quantity: {self.quantity},'
-                f'updated: {self.updated}',
-                f'Image: {self.image}')
+        return (f'name: {self.name}')
+
+    @property
+    def image_preview(self):
+        if self.image:
+            return mark_safe('<img src="{}" width="300" height="300" />'.format(self.image.url))
+        return ""
 
 
 class Order(models.Model):

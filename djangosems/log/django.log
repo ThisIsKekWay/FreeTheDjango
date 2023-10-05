@@ -9848,3 +9848,1022 @@ INFO 2023-10-04 11:37:36,162 autoreload 10744 4712 C:\Users\Koha\Desktop\Уче�
 INFO 2023-10-04 11:37:36,767 autoreload 8444 9524 Watching for file changes with StatReloader
 INFO 2023-10-04 11:39:16,126 autoreload 8444 9524 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
 INFO 2023-10-04 11:39:16,679 autoreload 15332 13500 Watching for file changes with StatReloader
+INFO 2023-10-04 17:53:45,058 autoreload 1232 12064 Watching for file changes with StatReloader
+INFO 2023-10-04 17:53:46,557 views 1232 6856 Юзверь зашел на главную страницу
+INFO 2023-10-04 17:53:46,564 basehttp 1232 6856 "GET / HTTP/1.1" 200 585
+INFO 2023-10-04 17:53:48,652 basehttp 1232 6856 "GET /orders/ HTTP/1.1" 200 3798
+INFO 2023-10-04 17:53:48,752 basehttp 1232 6856 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 200 16895
+INFO 2023-10-04 17:53:48,758 basehttp 1232 3740 "GET /media/products/default.jpg HTTP/1.1" 200 4454
+INFO 2023-10-04 17:53:55,339 basehttp 1232 3740 "GET /all_prods/ HTTP/1.1" 200 10484
+INFO 2023-10-04 17:53:55,366 basehttp 1232 3740 "GET /media/products/mqdefault.jpg HTTP/1.1" 200 14507
+INFO 2023-10-04 17:53:55,368 basehttp 1232 6856 "GET /media/products/compressed_image_5.jpeg HTTP/1.1" 200 11698
+INFO 2023-10-04 17:53:55,371 basehttp 1232 11132 "GET /media/products/compressed_image.jpeg HTTP/1.1" 200 6078
+INFO 2023-10-04 17:53:55,372 basehttp 1232 304 "GET /media/products/compressed_image_4.jpeg HTTP/1.1" 200 17729
+INFO 2023-10-04 17:54:09,001 basehttp 1232 304 "GET /orders/ HTTP/1.1" 200 3798
+INFO 2023-10-04 17:54:09,023 basehttp 1232 11132 "GET /media/products/default.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:09,023 basehttp 1232 304 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:29,245 basehttp 1232 11132 "GET /orders/ HTTP/1.1" 200 3798
+INFO 2023-10-04 17:54:29,262 basehttp 1232 304 "GET /media/products/default.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:29,262 basehttp 1232 11132 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:31,025 basehttp 1232 11132 "GET /orders/ HTTP/1.1" 200 3798
+INFO 2023-10-04 17:54:58,301 basehttp 1232 11132 "GET /all_prods/ HTTP/1.1" 200 10484
+INFO 2023-10-04 17:54:58,332 basehttp 1232 304 "GET /media/products/compressed_image.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:58,332 basehttp 1232 11132 "GET /media/products/mqdefault.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:58,332 basehttp 1232 6856 "GET /media/products/default.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:58,334 basehttp 1232 3740 "GET /media/products/compressed_image_4.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:58,335 basehttp 1232 13968 "GET /media/products/compressed_image_5.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:54:58,340 basehttp 1232 8584 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:55:43,584 autoreload 1232 12064 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 17:55:44,194 autoreload 6076 11832 Watching for file changes with StatReloader
+INFO 2023-10-04 17:55:47,582 basehttp 6076 14680 "GET /all_prods/ HTTP/1.1" 200 10484
+INFO 2023-10-04 17:55:47,598 basehttp 6076 14680 "GET /media/products/mqdefault.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:55:47,598 basehttp 6076 3236 "GET /media/products/compressed_image.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:55:47,610 basehttp 6076 3236 "GET /media/products/default.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:55:47,611 basehttp 6076 14680 "GET /media/products/compressed_image_4.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:55:47,614 basehttp 6076 14540 "GET /media/products/compressed_image_5.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:55:47,614 basehttp 6076 888 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:55:51,346 basehttp 6076 888 "GET /product_details/3/? HTTP/1.1" 200 1135
+INFO 2023-10-04 17:56:39,912 basehttp 6076 888 "POST /product_details/3/? HTTP/1.1" 200 1142
+INFO 2023-10-04 17:56:39,986 basehttp 6076 888 "GET /media/products/9-1-2048x1280.jpeg HTTP/1.1" 200 71168
+INFO 2023-10-04 17:56:44,923 basehttp 6076 888 "GET /all_prods/ HTTP/1.1" 200 10491
+INFO 2023-10-04 17:56:44,941 basehttp 6076 14540 "GET /media/products/compressed_image.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:56:44,941 basehttp 6076 888 "GET /media/products/mqdefault.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:56:44,949 basehttp 6076 3236 "GET /media/products/default.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:56:44,950 basehttp 6076 14540 "GET /media/products/compressed_image_4.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:56:44,950 basehttp 6076 14680 "GET /media/products/compressed_image_5.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:56:44,952 basehttp 6076 888 "GET /media/products/9-1-2048x1280.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:56:44,953 basehttp 6076 4048 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:56:58,955 autoreload 6076 11832 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\views.py changed, reloading.
+INFO 2023-10-04 17:56:59,706 autoreload 4040 14360 Watching for file changes with StatReloader
+INFO 2023-10-04 17:57:02,859 basehttp 4040 14640 "GET /orders/ HTTP/1.1" 200 3798
+INFO 2023-10-04 17:57:03,462 basehttp 4040 14640 "GET /all_prods/ HTTP/1.1" 200 10491
+INFO 2023-10-04 17:57:03,485 basehttp 4040 14640 "GET /media/products/9-1-2048x1280.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:06,383 basehttp 4040 14640 "GET /product_details/3/? HTTP/1.1" 200 1142
+INFO 2023-10-04 17:57:06,402 basehttp 4040 14640 "GET /media/products/9-1-2048x1280.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:14,959 basehttp 4040 14640 "POST /product_details/3/? HTTP/1.1" 200 1147
+INFO 2023-10-04 17:57:15,034 basehttp 4040 14640 "GET /media/products/compressed_image_3.jpeg HTTP/1.1" 200 6126
+INFO 2023-10-04 17:57:17,868 basehttp 4040 14640 "GET /all_prods/ HTTP/1.1" 200 10496
+INFO 2023-10-04 17:57:17,883 basehttp 4040 9008 "GET /media/products/compressed_image.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:17,883 basehttp 4040 14640 "GET /media/products/mqdefault.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:17,892 basehttp 4040 14640 "GET /media/products/compressed_image_3.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:17,893 basehttp 4040 9008 "GET /media/products/compressed_image_4.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:17,894 basehttp 4040 5928 "GET /media/products/compressed_image_5.jpeg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:17,896 basehttp 4040 4436 "GET /media/products/default.jpg HTTP/1.1" 304 0
+INFO 2023-10-04 17:57:17,896 basehttp 4040 1592 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 09:43:40,016 autoreload 14496 14592 Watching for file changes with StatReloader
+INFO 2023-10-05 09:43:41,880 views 14496 4792 Юзверь зашел на главную страницу
+INFO 2023-10-05 09:43:41,899 basehttp 14496 4792 "GET / HTTP/1.1" 200 585
+INFO 2023-10-05 09:44:36,979 autoreload 7764 10636 Watching for file changes with StatReloader
+INFO 2023-10-05 09:44:38,054 views 7764 6028 Юзверь зашел на главную страницу
+INFO 2023-10-05 09:44:38,059 basehttp 7764 6028 "GET / HTTP/1.1" 200 585
+INFO 2023-10-05 09:44:40,899 basehttp 7764 6028 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-05 09:44:40,983 basehttp 7764 6028 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+INFO 2023-10-05 09:44:41,616 basehttp 7764 6028 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-05 09:44:41,624 basehttp 7764 6028 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+INFO 2023-10-05 09:44:44,194 basehttp 7764 6028 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-05 09:44:44,219 basehttp 7764 6028 "GET /admin/ HTTP/1.1" 200 5556
+INFO 2023-10-05 09:45:25,023 autoreload 7764 10636 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:45:25,583 autoreload 14008 13180 Watching for file changes with StatReloader
+INFO 2023-10-05 09:46:04,088 autoreload 14008 13180 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:46:04,641 autoreload 3436 1688 Watching for file changes with StatReloader
+INFO 2023-10-05 09:46:11,013 basehttp 3436 7712 "GET /admin/ HTTP/1.1" 200 6216
+INFO 2023-10-05 09:46:12,693 basehttp 3436 7712 "GET /admin/sem1app/product/ HTTP/1.1" 200 18316
+INFO 2023-10-05 09:46:12,727 basehttp 3436 7712 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+ERROR 2023-10-05 09:46:32,100 log 3436 7712 Internal Server Error: /admin/sem1app/product/3/change/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    "subtitle": str(obj) if obj else None,
+                ^^^^^^^^
+TypeError: __str__ returned non-string (type tuple)
+ERROR 2023-10-05 09:46:32,104 basehttp 3436 7712 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 500 110243
+INFO 2023-10-05 09:48:21,438 autoreload 3436 1688 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-05 09:48:22,081 autoreload 6340 14048 Watching for file changes with StatReloader
+INFO 2023-10-05 09:48:23,833 basehttp 6340 1376 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12379
+INFO 2023-10-05 09:48:23,860 basehttp 6340 1376 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-05 09:52:32,580 autoreload 6340 14048 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:52:33,145 autoreload 1956 7712 Watching for file changes with StatReloader
+INFO 2023-10-05 09:53:50,733 autoreload 1956 7712 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:53:51,320 autoreload 7060 7016 Watching for file changes with StatReloader
+INFO 2023-10-05 09:53:59,866 autoreload 7060 7016 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:54:00,421 autoreload 10696 4680 Watching for file changes with StatReloader
+INFO 2023-10-05 09:55:31,414 autoreload 10696 4680 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:55:32,084 autoreload 6904 10260 Watching for file changes with StatReloader
+INFO 2023-10-05 09:55:48,667 basehttp 6904 10964 "GET /admin/ HTTP/1.1" 200 6216
+INFO 2023-10-05 09:55:51,025 basehttp 6904 10964 "GET /admin/sem1app/product/ HTTP/1.1" 200 20890
+INFO 2023-10-05 09:55:51,044 basehttp 6904 10964 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-05 09:55:51,078 basehttp 6904 10964 "GET /media/products/compressed_image_3.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 09:55:51,079 basehttp 6904 6432 "GET /media/products/compressed_image_4.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 09:55:51,081 basehttp 6904 11516 "GET /media/products/compressed_image.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 09:55:51,082 basehttp 6904 5024 "GET /media/products/compressed_image_10.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 09:55:51,084 basehttp 6904 8296 "GET /media/products/compressed_image_5.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 09:55:51,085 basehttp 6904 10524 "GET /media/products/mqdefault.jpg HTTP/1.1" 304 0
+INFO 2023-10-05 09:55:51,089 basehttp 6904 10524 "GET /media/products/default.jpg HTTP/1.1" 304 0
+INFO 2023-10-05 09:56:10,829 autoreload 6904 10260 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:56:11,385 autoreload 1956 7712 Watching for file changes with StatReloader
+INFO 2023-10-05 09:56:12,890 basehttp 1956 8216 "GET /admin/sem1app/product/ HTTP/1.1" 200 20890
+INFO 2023-10-05 09:56:12,909 basehttp 1956 8216 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+ERROR 2023-10-05 09:56:19,645 log 1956 8216 Internal Server Error: /admin/sem1app/product/3/change/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (show_image) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (show_image) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2023-10-05 09:56:19,651 basehttp 1956 8216 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 500 135142
+INFO 2023-10-05 09:57:45,357 basehttp 1956 8216 "GET /admin/sem1app/product/ HTTP/1.1" 200 20890
+INFO 2023-10-05 09:57:55,286 basehttp 1956 8216 "GET /admin/sem1app/product/?o=5.-6 HTTP/1.1" 200 21972
+INFO 2023-10-05 09:57:55,311 basehttp 1956 8216 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-05 09:57:56,553 basehttp 1956 8216 "GET /admin/sem1app/product/?o=-6 HTTP/1.1" 200 21544
+INFO 2023-10-05 09:57:56,575 basehttp 1956 8216 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-05 09:57:58,890 basehttp 1956 8216 "GET /admin/sem1app/product/?o=-6&updated__gte=2023-10-01+00%3A00%3A00%2B00%3A00&updated__lt=2023-11-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 25065
+INFO 2023-10-05 09:57:58,912 basehttp 1956 8216 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-05 09:58:03,924 basehttp 1956 8216 "GET /admin/sem1app/product/?o=-6 HTTP/1.1" 200 21544
+INFO 2023-10-05 09:58:03,945 basehttp 1956 8216 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-05 09:58:23,978 autoreload 1956 7712 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\djangosems\settings.py changed, reloading.
+INFO 2023-10-05 09:58:24,596 autoreload 8692 13640 Watching for file changes with StatReloader
+INFO 2023-10-05 09:58:26,395 basehttp 8692 1116 "GET /admin/sem1app/product/?o=-6 HTTP/1.1" 200 22281
+INFO 2023-10-05 09:58:26,431 basehttp 8692 1116 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 09:58:39,465 basehttp 8692 1116 "POST /admin/sem1app/product/?o=-6 HTTP/1.1" 302 0
+INFO 2023-10-05 09:58:39,495 basehttp 8692 1116 "GET /admin/sem1app/product/?o=-6 HTTP/1.1" 200 22257
+INFO 2023-10-05 09:58:39,518 basehttp 8692 1116 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-10-05 09:59:12,274 log 8692 1116 Internal Server Error: /admin/sem1app/product/3/change/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (show_image) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (show_image) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2023-10-05 09:59:12,280 basehttp 8692 1116 "GET /admin/sem1app/product/3/change/?_changelist_filters=o%3D-6 HTTP/1.1" 500 135966
+INFO 2023-10-05 09:59:50,809 autoreload 8692 13640 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 09:59:51,420 autoreload 4640 5888 Watching for file changes with StatReloader
+INFO 2023-10-05 09:59:53,993 basehttp 4640 1564 "GET /admin/sem1app/product/3/change/?_changelist_filters=o%3D-6 HTTP/1.1" 200 12897
+INFO 2023-10-05 09:59:54,028 basehttp 4640 1564 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:00:09,554 basehttp 4640 1564 "GET /admin/sem1app/product/3/change/?_changelist_filters=o%3D-6 HTTP/1.1" 200 12897
+INFO 2023-10-05 10:00:22,889 basehttp 4640 1564 "GET /admin/sem1app/product/3/history/?_changelist_filters=o%3D-6 HTTP/1.1" 200 7113
+INFO 2023-10-05 10:00:26,493 basehttp 4640 1564 "GET /admin/sem1app/product/3/change/?_changelist_filters=o%3D-6 HTTP/1.1" 200 12897
+INFO 2023-10-05 10:01:12,158 autoreload 4640 5888 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:01:12,753 autoreload 6268 15148 Watching for file changes with StatReloader
+INFO 2023-10-05 10:01:42,921 autoreload 6268 15148 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:01:43,485 autoreload 13592 3824 Watching for file changes with StatReloader
+INFO 2023-10-05 10:01:44,740 views 13592 1392 Юзверь зашел на главную страницу
+INFO 2023-10-05 10:01:44,746 basehttp 13592 1392 "GET / HTTP/1.1" 200 585
+INFO 2023-10-05 10:01:46,553 basehttp 13592 1392 "GET /admin/sem1app/product/ HTTP/1.1" 200 21603
+INFO 2023-10-05 10:01:46,651 basehttp 13592 1392 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-10-05 10:01:49,410 log 13592 1392 Internal Server Error: /admin/sem1app/product/3/change/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (show_image) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (show_image) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2023-10-05 10:01:49,417 basehttp 13592 1392 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 500 135142
+INFO 2023-10-05 10:01:56,617 autoreload 13592 3824 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:01:57,216 autoreload 10924 3396 Watching for file changes with StatReloader
+INFO 2023-10-05 10:01:58,757 basehttp 10924 14732 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12806
+INFO 2023-10-05 10:01:58,782 basehttp 10924 14732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:05:34,592 autoreload 10924 3396 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:05:35,155 autoreload 4920 4904 Watching for file changes with StatReloader
+INFO 2023-10-05 10:05:40,210 basehttp 4920 1808 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12985
+INFO 2023-10-05 10:05:40,239 basehttp 4920 1808 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:05:54,888 basehttp 4920 1808 "POST /admin/sem1app/product/3/change/ HTTP/1.1" 302 0
+INFO 2023-10-05 10:05:54,927 basehttp 4920 1808 "GET /admin/sem1app/product/ HTTP/1.1" 200 21929
+INFO 2023-10-05 10:05:54,949 basehttp 4920 1808 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:05:55,035 basehttp 4920 1808 "GET /media/products/9-1-2048x1280_qUXlHXj.jpeg HTTP/1.1" 200 71168
+INFO 2023-10-05 10:05:56,347 basehttp 4920 1808 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 13014
+INFO 2023-10-05 10:05:56,369 basehttp 4920 1808 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:06:14,226 autoreload 4920 4904 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:06:14,837 autoreload 2180 13608 Watching for file changes with StatReloader
+INFO 2023-10-05 10:06:16,841 basehttp 2180 5888 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12835
+INFO 2023-10-05 10:06:16,861 basehttp 2180 5888 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:06:20,924 basehttp 2180 5888 "GET /media/products/9-1-2048x1280_qUXlHXj.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 10:06:22,996 basehttp 2180 5888 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12835
+INFO 2023-10-05 10:06:28,384 basehttp 2180 5888 "GET /admin/sem1app/product/ HTTP/1.1" 200 21617
+INFO 2023-10-05 10:06:28,407 basehttp 2180 5888 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:06:28,420 basehttp 2180 5888 "GET /media/products/9-1-2048x1280_qUXlHXj.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 10:08:25,342 autoreload 2180 13608 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-05 10:08:25,926 autoreload 5216 3032 Watching for file changes with StatReloader
+INFO 2023-10-05 10:09:08,443 autoreload 5216 3032 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-05 10:09:09,016 autoreload 4696 6008 Watching for file changes with StatReloader
+INFO 2023-10-05 10:09:37,068 autoreload 14868 9224 Watching for file changes with StatReloader
+INFO 2023-10-05 10:10:15,509 autoreload 14868 9224 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:10:16,066 autoreload 13620 1560 Watching for file changes with StatReloader
+INFO 2023-10-05 10:10:18,796 basehttp 13620 3420 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12760
+INFO 2023-10-05 10:10:18,824 basehttp 13620 3420 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:10:44,367 autoreload 13620 1560 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-05 10:10:44,927 autoreload 11240 4936 Watching for file changes with StatReloader
+INFO 2023-10-05 10:10:47,855 basehttp 11240 6004 "GET /admin/sem1app/product/ HTTP/1.1" 200 21617
+INFO 2023-10-05 10:10:47,879 basehttp 11240 6004 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:10:47,882 basehttp 11240 6004 "GET /media/products/9-1-2048x1280_qUXlHXj.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 10:10:49,052 basehttp 11240 6004 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12840
+INFO 2023-10-05 10:10:49,073 basehttp 11240 6004 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:11:04,187 basehttp 11240 6004 "POST /admin/sem1app/product/3/change/ HTTP/1.1" 302 0
+INFO 2023-10-05 10:11:04,213 basehttp 11240 6004 "GET /admin/sem1app/product/ HTTP/1.1" 200 21929
+INFO 2023-10-05 10:11:04,235 basehttp 11240 6004 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:11:30,495 basehttp 11240 6004 "GET /admin/sem1app/product/3/change/ HTTP/1.1" 200 12840
+INFO 2023-10-05 10:11:30,519 basehttp 11240 6004 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:11:30,529 basehttp 11240 6004 "GET /media/products/9-1-2048x1280_qUXlHXj.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 10:11:32,093 basehttp 11240 6004 "GET /admin/sem1app/product/ HTTP/1.1" 200 21617
+INFO 2023-10-05 10:12:31,752 autoreload 11240 4936 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:12:32,338 autoreload 9536 1236 Watching for file changes with StatReloader
+INFO 2023-10-05 10:12:33,623 basehttp 9536 8156 "GET /admin/ HTTP/1.1" 200 7355
+INFO 2023-10-05 10:13:00,736 autoreload 9536 1236 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:13:01,292 autoreload 11236 8268 Watching for file changes with StatReloader
+INFO 2023-10-05 10:13:03,259 basehttp 11236 7944 "GET /admin/ HTTP/1.1" 200 7796
+INFO 2023-10-05 10:13:04,640 basehttp 11236 7944 "GET /admin/sem1app/order/ HTTP/1.1" 200 29015
+INFO 2023-10-05 10:13:04,663 basehttp 11236 7944 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:13:19,353 autoreload 11236 8268 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:13:19,962 autoreload 10840 6288 Watching for file changes with StatReloader
+INFO 2023-10-05 10:13:29,664 autoreload 10840 6288 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:13:30,232 autoreload 1344 10464 Watching for file changes with StatReloader
+INFO 2023-10-05 10:13:32,059 basehttp 1344 5888 "GET /admin/sem1app/order/ HTTP/1.1" 200 25137
+INFO 2023-10-05 10:13:32,083 basehttp 1344 5888 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:13:43,224 autoreload 1344 10464 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:13:43,801 autoreload 1616 3052 Watching for file changes with StatReloader
+INFO 2023-10-05 10:13:51,310 autoreload 1616 3052 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:13:51,874 autoreload 11748 4912 Watching for file changes with StatReloader
+INFO 2023-10-05 10:14:02,484 autoreload 11748 4912 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:14:03,063 autoreload 8632 3272 Watching for file changes with StatReloader
+INFO 2023-10-05 10:14:16,688 basehttp 8632 7408 "GET /admin/sem1app/order/ HTTP/1.1" 200 21771
+INFO 2023-10-05 10:14:16,718 basehttp 8632 7408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:14:22,959 basehttp 8632 7408 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 17852
+INFO 2023-10-05 10:14:22,983 basehttp 8632 7408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:14:30,337 basehttp 8632 7408 "GET /admin/sem1app/order/ HTTP/1.1" 200 21771
+INFO 2023-10-05 10:14:50,116 basehttp 8632 7408 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 17852
+INFO 2023-10-05 10:14:50,141 basehttp 8632 7408 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:15:16,906 autoreload 8632 3272 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-05 10:15:17,506 autoreload 6664 7052 Watching for file changes with StatReloader
+INFO 2023-10-05 10:15:19,208 basehttp 6664 12444 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 15746
+INFO 2023-10-05 10:15:19,230 basehttp 6664 12444 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:15:33,642 autoreload 6664 7052 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-05 10:15:34,225 autoreload 13432 13392 Watching for file changes with StatReloader
+INFO 2023-10-05 10:15:36,396 basehttp 13432 8204 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 14262
+INFO 2023-10-05 10:15:36,427 basehttp 13432 8204 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:15:41,968 autoreload 13432 13392 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\models.py changed, reloading.
+INFO 2023-10-05 10:15:42,609 autoreload 14528 8512 Watching for file changes with StatReloader
+INFO 2023-10-05 10:15:44,108 basehttp 14528 8508 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 14262
+INFO 2023-10-05 10:15:44,146 basehttp 14528 8508 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:15:46,224 basehttp 14528 8508 "GET /admin/sem1app/order/ HTTP/1.1" 200 21771
+INFO 2023-10-05 10:15:46,247 basehttp 14528 8508 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:15:49,556 views 14528 8508 Юзверь зашел на главную страницу
+INFO 2023-10-05 10:15:49,557 basehttp 14528 8508 "GET / HTTP/1.1" 200 585
+INFO 2023-10-05 10:15:52,139 basehttp 14528 8508 "GET /orders/ HTTP/1.1" 200 3918
+INFO 2023-10-05 10:15:53,257 basehttp 14528 8508 "GET /all_prods/ HTTP/1.1" 200 10627
+INFO 2023-10-05 10:15:53,281 basehttp 14528 8508 "GET /media/products/9-1-2048x1280_qUXlHXj.jpeg HTTP/1.1" 304 0
+INFO 2023-10-05 10:16:10,552 basehttp 14528 8508 "GET /admin/sem1app/product/ HTTP/1.1" 200 21918
+INFO 2023-10-05 10:16:10,586 basehttp 14528 8508 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:16:14,514 basehttp 14528 8508 "POST /admin/sem1app/product/ HTTP/1.1" 302 0
+INFO 2023-10-05 10:16:14,541 basehttp 14528 8508 "GET /admin/sem1app/product/ HTTP/1.1" 200 21903
+INFO 2023-10-05 10:16:14,565 basehttp 14528 8508 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:16:17,515 basehttp 14528 8508 "GET /all_prods/ HTTP/1.1" 200 10612
+INFO 2023-10-05 10:16:23,211 basehttp 14528 8508 "GET /orders/ HTTP/1.1" 200 3918
+INFO 2023-10-05 10:16:29,175 basehttp 14528 8508 "GET /admin/sem1app/order/ HTTP/1.1" 200 21771
+INFO 2023-10-05 10:16:29,196 basehttp 14528 8508 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:17:41,761 autoreload 14528 8512 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:17:42,343 autoreload 1492 13620 Watching for file changes with StatReloader
+ERROR 2023-10-05 10:17:44,411 log 1492 2864 Internal Server Error: /admin/sem1app/order/29/change/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (client_id) specified for Order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (client_id) specified for Order. Check fields/fieldsets/exclude attributes of class OrderAdmin.
+ERROR 2023-10-05 10:17:44,416 basehttp 1492 2864 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 500 133003
+INFO 2023-10-05 10:17:53,193 autoreload 1492 13620 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:17:53,773 autoreload 8500 8308 Watching for file changes with StatReloader
+INFO 2023-10-05 10:17:55,830 basehttp 8500 12496 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 9989
+INFO 2023-10-05 10:17:55,856 basehttp 8500 12496 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:18:29,406 autoreload 8500 8308 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:18:29,994 autoreload 3944 13264 Watching for file changes with StatReloader
+INFO 2023-10-05 10:18:31,404 basehttp 3944 2352 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 12940
+INFO 2023-10-05 10:18:31,449 basehttp 3944 2352 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:18:59,492 autoreload 3944 13264 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:19:00,087 autoreload 14732 10432 Watching for file changes with StatReloader
+INFO 2023-10-05 10:19:02,819 basehttp 14732 13048 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 13586
+INFO 2023-10-05 10:19:02,874 basehttp 14732 13048 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:19:28,434 autoreload 14732 10432 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:19:29,001 autoreload 4840 3752 Watching for file changes with StatReloader
+INFO 2023-10-05 10:19:30,236 basehttp 4840 6696 "GET /admin/sem1app/order/ HTTP/1.1" 200 21769
+INFO 2023-10-05 10:19:30,262 basehttp 4840 6696 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-10-05 10:19:33,869 log 4840 6696 Internal Server Error: /admin/sem1app/order/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 836, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 529, in get_queryset
+    qs, search_may_have_duplicates = self.model_admin.get_search_results(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1155, in get_search_results
+    queryset = queryset.filter(models.Q.create(term_queries))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1312, in build_lookup
+    lhs = self.try_transform(lhs, lookup_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1356, in try_transform
+    raise FieldError(
+django.core.exceptions.FieldError: Unsupported lookup 'icontains' for ForeignKey or join on the field not permitted.
+ERROR 2023-10-05 10:19:33,876 basehttp 4840 6696 "GET /admin/sem1app/order/?q=10 HTTP/1.1" 500 201247
+INFO 2023-10-05 10:19:52,216 basehttp 4840 6696 "GET /admin/sem1app/order/ HTTP/1.1" 200 21769
+INFO 2023-10-05 10:19:59,261 autoreload 4840 3752 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:19:59,856 autoreload 7120 2692 Watching for file changes with StatReloader
+INFO 2023-10-05 10:20:01,285 basehttp 7120 2240 "GET /admin/sem1app/order/ HTTP/1.1" 200 21769
+INFO 2023-10-05 10:20:01,326 basehttp 7120 2240 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-10-05 10:20:03,295 log 7120 2240 Internal Server Error: /admin/sem1app/order/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 836, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 529, in get_queryset
+    qs, search_may_have_duplicates = self.model_admin.get_search_results(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1155, in get_search_results
+    queryset = queryset.filter(models.Q.create(term_queries))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1312, in build_lookup
+    lhs = self.try_transform(lhs, lookup_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1356, in try_transform
+    raise FieldError(
+django.core.exceptions.FieldError: Unsupported lookup 'icontains' for ForeignKey or join on the field not permitted.
+ERROR 2023-10-05 10:20:03,303 basehttp 7120 2240 "GET /admin/sem1app/order/?q=10 HTTP/1.1" 500 201307
+INFO 2023-10-05 10:20:10,332 basehttp 7120 2240 "GET /admin/sem1app/order/ HTTP/1.1" 200 21769
+INFO 2023-10-05 10:20:32,430 autoreload 7120 2692 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:20:33,000 autoreload 3092 14696 Watching for file changes with StatReloader
+INFO 2023-10-05 10:20:35,136 basehttp 3092 4732 "GET /admin/sem1app/order/ HTTP/1.1" 200 22649
+INFO 2023-10-05 10:20:35,161 basehttp 3092 4732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:20:36,620 basehttp 3092 4732 "GET /admin/sem1app/order/?client_id__id__exact=1 HTTP/1.1" 200 14318
+INFO 2023-10-05 10:20:36,643 basehttp 3092 4732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:20:38,338 basehttp 3092 4732 "GET /admin/sem1app/order/?client_id__id__exact=10 HTTP/1.1" 200 14337
+INFO 2023-10-05 10:20:38,358 basehttp 3092 4732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:20:40,352 basehttp 3092 4732 "GET /admin/sem1app/order/?client_id__id__exact=9 HTTP/1.1" 200 13532
+INFO 2023-10-05 10:20:40,376 basehttp 3092 4732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:20:41,396 basehttp 3092 4732 "GET /admin/sem1app/order/?client_id__id__exact=8 HTTP/1.1" 200 13935
+INFO 2023-10-05 10:20:41,415 basehttp 3092 4732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:20:42,494 basehttp 3092 4732 "GET /admin/sem1app/order/?client_id__id__exact=10 HTTP/1.1" 200 14337
+INFO 2023-10-05 10:20:42,516 basehttp 3092 4732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:20:44,887 basehttp 3092 4732 "GET /admin/sem1app/order/? HTTP/1.1" 200 22649
+INFO 2023-10-05 10:20:44,907 basehttp 3092 4732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 2023-10-05 10:20:48,652 log 3092 4732 Internal Server Error: /admin/sem1app/order/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 836, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 529, in get_queryset
+    qs, search_may_have_duplicates = self.model_admin.get_search_results(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1155, in get_search_results
+    queryset = queryset.filter(models.Q.create(term_queries))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1312, in build_lookup
+    lhs = self.try_transform(lhs, lookup_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1356, in try_transform
+    raise FieldError(
+django.core.exceptions.FieldError: Unsupported lookup 'icontains' for ForeignKey or join on the field not permitted.
+ERROR 2023-10-05 10:20:48,660 basehttp 3092 4732 "GET /admin/sem1app/order/?q=10 HTTP/1.1" 500 201334
+ERROR 2023-10-05 10:22:05,115 log 3092 4732 Internal Server Error: /admin/sem1app/order/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 836, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 529, in get_queryset
+    qs, search_may_have_duplicates = self.model_admin.get_search_results(
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1155, in get_search_results
+    queryset = queryset.filter(models.Q.create(term_queries))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1404, in build_filter
+    return self._add_q(
+           ^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1312, in build_lookup
+    lhs = self.try_transform(lhs, lookup_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\db\models\sql\query.py", line 1356, in try_transform
+    raise FieldError(
+django.core.exceptions.FieldError: Unsupported lookup 'icontains' for ForeignKey or join on the field not permitted.
+ERROR 2023-10-05 10:22:05,121 basehttp 3092 4732 "GET /admin/sem1app/order/?q=10 HTTP/1.1" 500 201471
+INFO 2023-10-05 10:22:55,047 autoreload 3092 14696 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:22:55,629 autoreload 10196 12392 Watching for file changes with StatReloader
+INFO 2023-10-05 10:22:56,926 basehttp 10196 9024 "GET /admin/sem1app/order/? HTTP/1.1" 200 22212
+INFO 2023-10-05 10:22:59,222 basehttp 10196 9024 "GET /admin/sem1app/order/? HTTP/1.1" 200 22212
+INFO 2023-10-05 10:22:59,241 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:01,945 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=1 HTTP/1.1" 200 13723
+INFO 2023-10-05 10:23:01,964 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:03,030 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=10 HTTP/1.1" 200 13741
+INFO 2023-10-05 10:23:03,051 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:06,760 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=9 HTTP/1.1" 200 12937
+INFO 2023-10-05 10:23:06,781 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:08,026 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=8 HTTP/1.1" 200 13340
+INFO 2023-10-05 10:23:08,046 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:08,608 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=7 HTTP/1.1" 200 13731
+INFO 2023-10-05 10:23:08,628 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:09,350 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=6 HTTP/1.1" 200 13341
+INFO 2023-10-05 10:23:09,370 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:09,695 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=5 HTTP/1.1" 200 12949
+INFO 2023-10-05 10:23:09,714 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:10,116 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=4 HTTP/1.1" 200 12937
+INFO 2023-10-05 10:23:10,135 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:10,503 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=2 HTTP/1.1" 200 13340
+INFO 2023-10-05 10:23:10,523 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:11,029 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=3 HTTP/1.1" 200 13341
+INFO 2023-10-05 10:23:11,050 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:11,552 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=1 HTTP/1.1" 200 13723
+INFO 2023-10-05 10:23:11,574 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:20,927 basehttp 10196 9024 "GET /admin/sem1app/order/?client_id__id__exact=3 HTTP/1.1" 200 13341
+INFO 2023-10-05 10:23:24,362 basehttp 10196 9024 "GET /admin/sem1app/order/? HTTP/1.1" 200 22212
+INFO 2023-10-05 10:23:24,383 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:29,862 basehttp 10196 9024 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 13586
+INFO 2023-10-05 10:23:29,885 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:23:32,463 basehttp 10196 9024 "GET /admin/sem1app/order/? HTTP/1.1" 200 22212
+INFO 2023-10-05 10:23:34,916 basehttp 10196 9024 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 13586
+INFO 2023-10-05 10:23:34,937 basehttp 10196 9024 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:24:10,444 autoreload 10196 12392 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:24:11,030 autoreload 7676 6372 Watching for file changes with StatReloader
+ERROR 2023-10-05 10:24:12,650 log 7676 6264 Internal Server Error: /admin/sem1app/order/29/change/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (image_preview) specified for Order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (image_preview) specified for Order. Check fields/fieldsets/exclude attributes of class OrderAdmin.
+ERROR 2023-10-05 10:24:12,655 basehttp 7676 6264 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 500 134638
+INFO 2023-10-05 10:24:31,151 autoreload 7676 6372 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:24:31,707 autoreload 9356 13060 Watching for file changes with StatReloader
+INFO 2023-10-05 10:24:43,353 autoreload 9356 13060 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:24:43,941 autoreload 7376 6292 Watching for file changes with StatReloader
+INFO 2023-10-05 10:24:57,624 autoreload 7376 6292 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:24:58,192 autoreload 8360 10892 Watching for file changes with StatReloader
+ERROR 2023-10-05 10:24:59,817 log 8360 4452 Internal Server Error: /admin/sem1app/order/29/change/
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 809, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 642, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\forms\models.py", line 321, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (image_preview) specified for Order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 1782, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\venv\Lib\site-packages\django\contrib\admin\options.py", line 811, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (image_preview) specified for Order. Check fields/fieldsets/exclude attributes of class OrderAdmin.
+ERROR 2023-10-05 10:24:59,823 basehttp 8360 4452 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 500 134638
+INFO 2023-10-05 10:25:10,077 autoreload 8360 10892 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:25:10,681 autoreload 2180 12080 Watching for file changes with StatReloader
+INFO 2023-10-05 10:25:12,642 basehttp 2180 4932 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 14055
+INFO 2023-10-05 10:25:12,675 basehttp 2180 4932 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:25:27,763 autoreload 2180 12080 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:25:28,391 autoreload 13404 8744 Watching for file changes with StatReloader
+INFO 2023-10-05 10:25:30,456 basehttp 13404 876 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 11351
+INFO 2023-10-05 10:25:30,478 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:25:34,423 basehttp 13404 876 "GET /admin/sem1app/product/10/change/ HTTP/1.1" 200 12869
+INFO 2023-10-05 10:25:34,446 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:25:40,969 basehttp 13404 876 "GET /admin/sem1app/order/29/change/ HTTP/1.1" 200 11351
+INFO 2023-10-05 10:25:49,923 basehttp 13404 876 "GET /admin/sem1app/order/ HTTP/1.1" 200 22212
+INFO 2023-10-05 10:25:49,947 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:25:58,881 basehttp 13404 876 "GET /admin/sem1app/order/?order_date__gte=2023-01-01+00%3A00%3A00%2B00%3A00&order_date__lt=2024-01-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 28436
+INFO 2023-10-05 10:25:58,904 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:26:00,068 basehttp 13404 876 "GET /admin/sem1app/order/?order_date__gte=2023-09-28+00%3A00%3A00%2B00%3A00&order_date__lt=2023-10-06+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 14612
+INFO 2023-10-05 10:26:00,092 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:26:02,538 basehttp 13404 876 "GET /admin/sem1app/order/?order_date__gte=2023-10-01+00%3A00%3A00%2B00%3A00&order_date__lt=2023-11-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 14114
+INFO 2023-10-05 10:26:02,559 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:26:03,792 basehttp 13404 876 "GET /admin/sem1app/order/?order_date__gte=2023-10-05+00%3A00%3A00%2B00%3A00&order_date__lt=2023-10-06+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 12043
+INFO 2023-10-05 10:26:03,813 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:26:05,261 basehttp 13404 876 "GET /admin/sem1app/order/? HTTP/1.1" 200 22212
+INFO 2023-10-05 10:26:05,281 basehttp 13404 876 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:26:38,038 autoreload 13404 8744 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:26:38,636 autoreload 356 9492 Watching for file changes with StatReloader
+INFO 2023-10-05 10:26:52,374 autoreload 356 9492 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:26:52,963 autoreload 3448 3052 Watching for file changes with StatReloader
+INFO 2023-10-05 10:27:38,498 autoreload 3448 3052 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:27:39,075 autoreload 13832 14872 Watching for file changes with StatReloader
+INFO 2023-10-05 10:27:43,726 basehttp 13832 9536 "GET /admin/ HTTP/1.1" 200 8242
+INFO 2023-10-05 10:27:44,960 basehttp 13832 9536 "GET /admin/sem1app/client/ HTTP/1.1" 200 13981
+INFO 2023-10-05 10:27:44,980 basehttp 13832 9536 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:27:48,074 basehttp 13832 9536 "GET /admin/sem1app/client/10/change/ HTTP/1.1" 200 11462
+INFO 2023-10-05 10:27:48,097 basehttp 13832 9536 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:28:53,820 autoreload 13832 14872 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\djangosems\sem1app\admin.py changed, reloading.
+INFO 2023-10-05 10:28:54,391 autoreload 5028 8000 Watching for file changes with StatReloader
+INFO 2023-10-05 10:28:56,553 basehttp 5028 14732 "GET /admin/sem1app/client/10/change/ HTTP/1.1" 200 12189
+INFO 2023-10-05 10:28:56,574 basehttp 5028 14732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:29:03,046 basehttp 5028 14732 "GET /admin/sem1app/product/ HTTP/1.1" 200 22208
+INFO 2023-10-05 10:29:03,067 basehttp 5028 14732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:29:07,885 basehttp 5028 14732 "GET /admin/sem1app/order/ HTTP/1.1" 200 22517
+INFO 2023-10-05 10:29:07,919 basehttp 5028 14732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-05 10:29:09,537 basehttp 5028 14732 "GET /admin/sem1app/product/ HTTP/1.1" 200 22208
+INFO 2023-10-05 10:29:09,558 basehttp 5028 14732 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
