@@ -19,3 +19,7 @@ class Product(models.Model):
 
     def __str__(self):
         return self.name
+
+    @property
+    def total_quantity(self):
+        return sum(prod.quantity for prod in Product.objects.all())

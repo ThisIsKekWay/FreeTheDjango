@@ -386,3 +386,117 @@ INFO 2023-10-05 09:34:58,655 basehttp 816 15064 "GET /admin/jsi18n/ HTTP/1.1" 20
 INFO 2023-10-05 09:35:01,640 basehttp 816 15064 "GET /admin/lection5app/product/4/change/ HTTP/1.1" 200 15740
 INFO 2023-10-05 09:35:01,664 basehttp 816 11320 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
 INFO 2023-10-05 09:35:01,731 basehttp 816 15064 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2023-10-06 10:19:24,237 autoreload 10024 2432 Watching for file changes with StatReloader
+INFO 2023-10-06 10:19:26,551 basehttp 10024 8544 "GET / HTTP/1.1" 200 9990
+INFO 2023-10-06 10:19:26,590 basehttp 10024 8544 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-10-06 10:19:26,590 basehttp 10024 8188 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-10-06 10:19:26,643 basehttp 10024 8188 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-10-06 10:19:26,674 basehttp 10024 8188 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2023-10-06 10:19:26,762 log 10024 8188 Not Found: /favicon.ico
+WARNING 2023-10-06 10:19:26,790 basehttp 10024 8188 "GET /favicon.ico HTTP/1.1" 404 12442
+INFO 2023-10-06 10:19:42,500 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=SignalsPanel HTTP/1.1" 200 2265
+INFO 2023-10-06 10:19:52,760 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=HistoryPanel HTTP/1.1" 200 4150
+INFO 2023-10-06 10:19:52,766 basehttp 10024 8188 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2023-10-06 10:20:08,745 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=VersionsPanel HTTP/1.1" 200 760
+INFO 2023-10-06 10:20:11,632 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=SettingsPanel HTTP/1.1" 200 27046
+INFO 2023-10-06 10:20:20,960 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=HeadersPanel HTTP/1.1" 200 5281
+INFO 2023-10-06 10:20:43,810 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=RequestPanel HTTP/1.1" 200 1553
+INFO 2023-10-06 10:21:03,739 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=SQLPanel HTTP/1.1" 200 16847
+INFO 2023-10-06 10:21:26,093 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=StaticFilesPanel HTTP/1.1" 200 37915
+INFO 2023-10-06 10:21:43,889 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=TemplatesPanel HTTP/1.1" 200 6468
+INFO 2023-10-06 10:21:59,729 basehttp 10024 8188 "GET /__debug__/render_panel/?store_id=92df49f07164417ea7eef935d6feed47&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2023-10-06 10:22:42,887 basehttp 10024 8188 "GET /lec3/if HTTP/1.1" 200 10818
+INFO 2023-10-06 10:22:42,913 basehttp 10024 8188 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:22:42,914 basehttp 10024 8544 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:22:42,933 basehttp 10024 8544 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:22:42,954 basehttp 10024 8544 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2023-10-06 10:22:53,555 log 10024 8544 Not Found: /lec4/user/add
+WARNING 2023-10-06 10:22:53,555 basehttp 10024 8544 "GET /lec4/user/add HTTP/1.1" 404 12893
+WARNING 2023-10-06 10:23:00,003 log 10024 8544 Not Found: /lec4/user
+WARNING 2023-10-06 10:23:00,003 basehttp 10024 8544 "GET /lec4/user HTTP/1.1" 404 12877
+WARNING 2023-10-06 10:23:09,724 log 10024 8544 Not Found: /lection4
+WARNING 2023-10-06 10:23:09,725 basehttp 10024 8544 "GET /lection4 HTTP/1.1" 404 12873
+WARNING 2023-10-06 10:23:20,671 log 10024 8544 Not Found: /lection4/
+WARNING 2023-10-06 10:23:20,672 basehttp 10024 8544 "GET /lection4/ HTTP/1.1" 404 13322
+INFO 2023-10-06 10:23:35,206 basehttp 10024 8544 "GET /lection4/user/add HTTP/1.1" 200 10869
+INFO 2023-10-06 10:23:35,238 basehttp 10024 8188 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2023-10-06 10:23:35,243 basehttp 10024 14824 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:23:35,244 basehttp 10024 6516 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:23:35,244 basehttp 10024 8388 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:23:35,255 basehttp 10024 8388 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:23:43,533 basehttp 10024 8388 "GET /lection4/user/add/ HTTP/1.1" 200 11191
+INFO 2023-10-06 10:24:00,684 basehttp 10024 8388 "GET /__debug__/render_panel/?store_id=a5123959f5784073816e18a594e2b4e3&panel_id=ProfilingPanel HTTP/1.1" 200 35818
+INFO 2023-10-06 10:48:51,847 autoreload 15312 1276 Watching for file changes with StatReloader
+INFO 2023-10-06 10:48:53,118 basehttp 15312 9732 "GET / HTTP/1.1" 200 10436
+INFO 2023-10-06 10:48:53,155 basehttp 15312 9732 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:48:53,155 basehttp 15312 9404 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:48:53,198 basehttp 15312 9404 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:48:53,228 basehttp 15312 9404 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:49:00,391 basehttp 15312 9404 "GET /lec6/db HTTP/1.1" 200 10839
+INFO 2023-10-06 10:49:00,416 basehttp 15312 9732 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:49:02,757 basehttp 15312 9732 "GET /lec6/db/ HTTP/1.1" 200 10477
+WARNING 2023-10-06 10:49:15,076 log 15312 9732 Not Found: /lec6/views
+WARNING 2023-10-06 10:49:15,076 basehttp 15312 9732 "GET /lec6/views HTTP/1.1" 404 13397
+INFO 2023-10-06 10:49:19,317 basehttp 15312 9732 "GET /lec6/view HTTP/1.1" 200 10845
+INFO 2023-10-06 10:49:20,708 basehttp 15312 10308 "GET /lec6/view/ HTTP/1.1" 200 10458
+INFO 2023-10-06 10:49:28,050 basehttp 15312 10308 "GET /lec6/db/ HTTP/1.1" 200 10476
+INFO 2023-10-06 10:49:34,151 basehttp 15312 10308 "GET /lec6/view/ HTTP/1.1" 200 10458
+INFO 2023-10-06 10:49:41,083 basehttp 15312 10308 "GET / HTTP/1.1" 200 10436
+INFO 2023-10-06 10:49:45,789 basehttp 15312 10308 "GET /lec6/db/ HTTP/1.1" 200 10476
+WARNING 2023-10-06 10:49:52,386 log 15312 10308 Not Found: /lec6/template/
+WARNING 2023-10-06 10:49:52,387 basehttp 15312 10308 "GET /lec6/template/ HTTP/1.1" 404 13413
+INFO 2023-10-06 10:49:56,652 basehttp 15312 10308 "GET /lec6/templates/ HTTP/1.1" 200 10476
+INFO 2023-10-06 10:49:59,449 basehttp 15312 10308 "GET /__debug__/render_panel/?store_id=3e13abfa85d0445185ee0949e80bd02f&panel_id=ProfilingPanel HTTP/1.1" 200 35858
+INFO 2023-10-06 10:50:43,949 basehttp 15312 10308 "GET /lec6/db/ HTTP/1.1" 200 10476
+INFO 2023-10-06 10:51:05,987 basehttp 15312 10308 "GET /lec6/db/ HTTP/1.1" 200 10476
+INFO 2023-10-06 10:51:13,649 basehttp 15312 10308 "GET /__debug__/render_panel/?store_id=cee65e28611349d2aa5477edc93eeba1&panel_id=RequestPanel HTTP/1.1" 200 1669
+INFO 2023-10-06 10:51:16,846 basehttp 15312 10308 "GET /__debug__/render_panel/?store_id=cee65e28611349d2aa5477edc93eeba1&panel_id=SQLPanel HTTP/1.1" 200 5586
+INFO 2023-10-06 10:51:37,609 basehttp 15312 10308 "GET /lec6/view/ HTTP/1.1" 200 10458
+INFO 2023-10-06 10:51:47,600 basehttp 15312 10308 "GET /__debug__/render_panel/?store_id=92012e4396e84b0c9c0f380abb555551&panel_id=ProfilingPanel HTTP/1.1" 200 41764
+INFO 2023-10-06 10:52:07,094 basehttp 15312 10308 "GET /lec6/templates/ HTTP/1.1" 200 10476
+INFO 2023-10-06 10:52:12,001 basehttp 15312 10308 "GET /__debug__/render_panel/?store_id=a6e4c52ac7fa4286a654bc2d975ceca7&panel_id=ProfilingPanel HTTP/1.1" 200 35858
+INFO 2023-10-06 10:52:13,808 basehttp 15312 10308 "GET /__debug__/render_panel/?store_id=a6e4c52ac7fa4286a654bc2d975ceca7&panel_id=SQLPanel HTTP/1.1" 200 27388
+INFO 2023-10-06 10:52:14,726 basehttp 15312 10308 "GET /__debug__/render_panel/?store_id=a6e4c52ac7fa4286a654bc2d975ceca7&panel_id=RequestPanel HTTP/1.1" 200 1683
+INFO 2023-10-06 10:52:59,163 autoreload 15312 1276 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lection6app\views.py changed, reloading.
+INFO 2023-10-06 10:52:59,886 autoreload 10120 8708 Watching for file changes with StatReloader
+INFO 2023-10-06 10:53:09,704 autoreload 10120 8708 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lection6app\views.py changed, reloading.
+INFO 2023-10-06 10:53:10,346 autoreload 12080 3640 Watching for file changes with StatReloader
+INFO 2023-10-06 10:54:11,717 basehttp 12080 1396 "GET / HTTP/1.1" 200 10436
+INFO 2023-10-06 10:54:11,749 basehttp 12080 4320 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:54:11,749 basehttp 12080 1396 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:54:11,750 basehttp 12080 12084 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:54:11,760 basehttp 12080 12084 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:54:19,938 basehttp 12080 12084 "GET /lec6/db/ HTTP/1.1" 200 10477
+INFO 2023-10-06 10:54:24,868 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=76833bcae2b3414591a4f40fc52d327a&panel_id=ProfilingPanel HTTP/1.1" 200 35945
+INFO 2023-10-06 10:54:32,058 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=76833bcae2b3414591a4f40fc52d327a&panel_id=SQLPanel HTTP/1.1" 200 5585
+INFO 2023-10-06 10:54:54,959 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=76833bcae2b3414591a4f40fc52d327a&panel_id=StaticFilesPanel HTTP/1.1" 200 37915
+INFO 2023-10-06 10:55:02,170 basehttp 12080 12084 "GET /lec6/view/ HTTP/1.1" 200 10458
+INFO 2023-10-06 10:55:04,967 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=0a66a9472bba482cb7ab2a083c2c7379&panel_id=ProfilingPanel HTTP/1.1" 200 41764
+INFO 2023-10-06 10:55:11,156 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=0a66a9472bba482cb7ab2a083c2c7379&panel_id=SQLPanel HTTP/1.1" 200 6879
+INFO 2023-10-06 10:55:14,484 basehttp 12080 12084 "POST /__debug__/sql_explain/ HTTP/1.1" 200 1779
+INFO 2023-10-06 10:55:27,920 basehttp 12080 12084 "GET /lec6/view/ HTTP/1.1" 200 10458
+INFO 2023-10-06 10:55:34,572 basehttp 12080 12084 "GET /lec6/template/ HTTP/1.1" 200 10472
+INFO 2023-10-06 10:55:37,005 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=51166509ff0849469e273f967a228f02&panel_id=SQLPanel HTTP/1.1" 200 27385
+INFO 2023-10-06 10:55:49,504 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=51166509ff0849469e273f967a228f02&panel_id=TemplatesPanel HTTP/1.1" 200 6704
+INFO 2023-10-06 10:56:01,195 basehttp 12080 12084 "GET /lec6/db/ HTTP/1.1" 200 10476
+INFO 2023-10-06 10:56:01,356 basehttp 12080 12084 "GET /lec6/db/ HTTP/1.1" 200 10476
+INFO 2023-10-06 10:56:26,447 basehttp 12080 12084 "GET /__debug__/render_panel/?store_id=87a4fd666f244f468864dde882d0bb9f&panel_id=SQLPanel HTTP/1.1" 200 5585
+INFO 2023-10-06 10:57:14,839 basehttp 12080 12084 "GET /lec6/view HTTP/1.1" 200 10845
+INFO 2023-10-06 10:57:14,866 basehttp 12080 1396 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:57:16,715 basehttp 12080 1396 "GET /lec6/view/ HTTP/1.1" 200 10458
+INFO 2023-10-06 10:57:23,786 basehttp 12080 1396 "GET /__debug__/render_panel/?store_id=6f7c49f2042d41738d25eeb8e80c40ae&panel_id=SQLPanel HTTP/1.1" 200 6879
+INFO 2023-10-06 10:57:30,305 basehttp 12080 1396 "GET /__debug__/render_panel/?store_id=6f7c49f2042d41738d25eeb8e80c40ae&panel_id=ProfilingPanel HTTP/1.1" 200 41764
+INFO 2023-10-06 10:57:55,534 basehttp 12080 1396 "GET /lec6/template/ HTTP/1.1" 200 10472
+INFO 2023-10-06 10:58:00,098 basehttp 12080 1396 "GET /__debug__/render_panel/?store_id=ac3300b8ad3f489898adad2a59ce4d9b&panel_id=ProfilingPanel HTTP/1.1" 200 35854
+INFO 2023-10-06 10:58:02,007 basehttp 12080 1396 "GET /__debug__/render_panel/?store_id=ac3300b8ad3f489898adad2a59ce4d9b&panel_id=SQLPanel HTTP/1.1" 200 27386
+INFO 2023-10-06 10:58:21,973 basehttp 12080 1396 "GET /__debug__/render_panel/?store_id=ac3300b8ad3f489898adad2a59ce4d9b&panel_id=TemplatesPanel HTTP/1.1" 200 6704
+INFO 2023-10-06 10:58:45,815 basehttp 12080 1396 "GET /lec6/view/ HTTP/1.1" 200 10458
+INFO 2023-10-06 10:58:45,845 basehttp 12080 1396 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:58:45,845 basehttp 12080 4320 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:58:45,849 basehttp 12080 3452 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-06 10:58:45,855 basehttp 12080 3452 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2023-10-06 10:58:48,782 basehttp 12080 3452 "GET /__debug__/render_panel/?store_id=ca502e59ae0244db96b388b5d67334f2&panel_id=ProfilingPanel HTTP/1.1" 200 41764
+INFO 2023-10-06 10:59:00,826 basehttp 12080 3452 "GET /__debug__/render_panel/?store_id=ca502e59ae0244db96b388b5d67334f2&panel_id=HistoryPanel HTTP/1.1" 200 18946
+INFO 2023-10-06 10:59:00,834 basehttp 12080 3452 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 304 0
+INFO 2023-10-06 11:04:30,531 autoreload 12080 3640 C:\Users\Koha\Desktop\Учеба GB\FreeTheDjango\lessonsofdjango\lessonsofdjango\settings.py changed, reloading.
+INFO 2023-10-06 11:04:31,306 autoreload 10684 15120 Watching for file changes with StatReloader

@@ -24,4 +24,6 @@ urlpatterns = [
     path('lec3/', include('lection3app.urls')),
     path('', index_view, name='index'),
     path('lection4/', include('lection4app.urls')),
+    #path('__debug__/', include('debug_toolbar.urls')),
+    path('lec6/', include('lection6app.urls')),
 ]
